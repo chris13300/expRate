@@ -1,0 +1,240 @@
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Anderssen"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Anderssen"]
+
+1. a2-a3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Ware (Meadow Hay)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Ware (Meadow Hay)"]
+
+1. a2-a4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Début Nimzovitch-Larsen"]
+[Black "?"]
+[Result "*"]
+[ECO "A01"]
+[Opening "Début Nimzovitch-Larsen"]
+
+1. b2-b3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Polonaise (Sokolsky-Orang-outan)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Polonaise (Sokolsky-Orang-outan)"]
+
+1. b2-b4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture de Saragosse"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture de Saragosse"]
+
+1. c2-c3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anglaise"]
+[Black "?"]
+[Result "*"]
+[ECO "A10"]
+[Opening "Anglaise"]
+
+1. c2-c4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Mieses"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Mieses"]
+
+1. d2-d3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Partie du Pion Dame"]
+[Black "?"]
+[Result "*"]
+[ECO "A40"]
+[Opening "Partie du Pion Dame"]
+
+1. d2-d4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Van Kruij"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Van Kruij"]
+
+1. e2-e3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pion du Roi"]
+[Black "?"]
+[Result "*"]
+[ECO "B00"]
+[Opening "Pion du Roi"]
+
+1. e2-e4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Barnes (Gedult)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Barnes (Gedult)"]
+
+1. f2-f3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Bird"]
+[Black "?"]
+[Result "*"]
+[ECO "A02"]
+[Opening "Ouverture Bird"]
+
+1. f2-f4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Début Benko"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Début Benko"]
+
+1. g2-g3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Grob (Fric-Kilibr)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Grob (Fric-Kilibr)"]
+
+1. g2-g4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Clemenz (Mead-Basman-de Klerk-Welling)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Clemenz (Mead-Basman-de Klerk-Welling)"]
+
+1. h2-h3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Attaque Kadas (Desprez)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Attaque Kadas (Desprez)"]
+
+1. h2-h4 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Attaque Durkin"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Attaque Durkin"]
+
+1. Nb1-a3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Dunst (Sleipner-Heinrichsen-Van Geet)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Dunst (Sleipner-Heinrichsen-Van Geet)"]
+
+1. Nb1-c3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Début Reti"]
+[Black "?"]
+[Result "*"]
+[ECO "A04"]
+[Opening "Début Reti"]
+
+1. Ng1-f3 *
+
+[Event "Computer chess game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ouverture Amar (Paris)"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Opening "Ouverture Amar (Paris)"]
+
+1. Ng1-h3 *
+
