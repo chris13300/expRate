@@ -13,21 +13,9 @@
 
         Console.Title = My.Computer.Name
 
-        If My.Computer.FileSystem.GetFileInfo(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) & "Documents\Visual Studio 2013\Projects\expRate\expRate\bin\Debug\expRate.exe").LastWriteTime > My.Computer.FileSystem.GetFileInfo(My.Application.Info.AssemblyName & ".exe").LastWriteTime Then
-            MsgBox("Il existe une version plus récente de ce programme !", MsgBoxStyle.Information)
-            End
-        End If
-
         fichierINI = My.Computer.Name & ".ini"
-        moteurEXP = "D:\JEUX\ARENA CHESS 3.5.1\Engines\Eman\20T Eman 8.20 x64 PCNT.exe"
-        fichierEXP = "D:\JEUX\ARENA CHESS 3.5.1\Engines\Eman\Eman.exp"
-        If My.Computer.Name = "BOIS" Or My.Computer.Name = "HTPC" Or My.Computer.Name = "TOUR-COURTOISIE" Then
-            moteurEXP = "D:\JEUX\ARENA CHESS 3.5.1\Engines\Eman\20T Eman 8.20 x64 BMI2.exe"
-            fichierEXP = "D:\JEUX\ARENA CHESS 3.5.1\Engines\Eman\Eman.exp"
-        ElseIf My.Computer.Name = "BUREAU" Or My.Computer.Name = "WORKSTATION" Then
-            moteurEXP = "E:\JEUX\ARENA CHESS 3.5.1\Engines\Eman\20T Eman 8.20 x64 BMI2.exe"
-            fichierEXP = "E:\JEUX\ARENA CHESS 3.5.1\Engines\Eman\Eman.exp"
-        End If
+        moteurEXP = "Eman.exe"
+        fichierEXP = "Eman.exp"
 
         If My.Computer.FileSystem.FileExists(fichierINI) Then
             chaine = My.Computer.FileSystem.ReadAllText(fichierINI)
