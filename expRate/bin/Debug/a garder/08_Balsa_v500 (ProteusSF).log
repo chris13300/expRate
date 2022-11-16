@@ -1,0 +1,502 @@
+﻿d2d4 d7d5 c2c4 e7e6 b1c3 f8e7 c1f4 g8f6 e2e3 e8g8                               : ....7 914 moves, avg. D46, 028 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 f1e1 e4d6                               : ...29 811 moves, avg. D47, 044 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 e8g8                               : ..863 303 moves, avg. D43, 055 counts/move
+d2d4 d7d5 g1f3 e7e6 c2c4 g8f6 b1c3 f8b4 e2e3 e8g8                               : ......431 moves, avg. D31, 045 counts/move
+d2d4 d7d5 g1f3 e7e6 c2c4 g8f6 b1c3 f8b4 c1g5 b8d7                               : .......33 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 b8d7                               : ......710 moves, avg. D31, 008 counts/move
+e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7                               : ......779 moves, avg. D29, 019 counts/move
+d2d4 g8f6 c2c4 c7c6 c1f4 d7d5 e2e3 e7e6 g1f3 f8d6                               : .......36 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 g2g3 c8a6 b2b3 f8b4                               : ....9 008 moves, avg. D33, 045 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 g2g3 f8b4 f1g2 e8g8                               : .......73 moves, avg. D18, 018 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5                               : ....1 439 moves, avg. D34, 032 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 d1c2 d7d5 c4d5 e6d5                               : ......859 moves, avg. D29, 010 counts/move
+d2d4 g8f6 c2c4 c7c6 c1f4 d7d5 e2e3 e7e6 a2a3 b8d7                               : .......38 moves, avg. D01, 001 counts/move
+g1f3 d7d5 g2g3 c8g4 f1g2 c7c6 e1g1 g8f6 d2d3 b8d7                               : .......32 moves, avg. D02, 004 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 f1d3 d7d5                               : ......627 moves, avg. D30, 035 counts/move
+d2d4 d7d5 c2c4 e7e6 b1c3 g8f6 c4d5 e6d5 c1g5 f8e7                               : ....6 722 moves, avg. D31, 019 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4 d7d6 f2f3 e8g8                               : ......754 moves, avg. D35, 035 counts/move
+e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6                               : ....2 956 moves, avg. D35, 035 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 e7e6 e2e3 g8f6 f1d3 b8d7                               : ......106 moves, avg. D23, 037 counts/move
+c2c4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e6                               : ......767 moves, avg. D34, 009 counts/move
+e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 b1c3 d8c7                               : ......111 moves, avg. D23, 006 counts/move
+e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 b1c3 e4c3                               : ......102 moves, avg. D24, 013 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 b8c6 e1g1 c8d7 f1e1 g8f6                               : .......39 moves, avg. D03, 002 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d2d3 b7b5                               : ......214 moves, avg. D26, 035 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 g2g3 c8b7 f1g2 f8e7                               : ......281 moves, avg. D29, 033 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 g8f6 d2d3 d7d6                               : 1 000 000 moves, avg. D43, 054 counts/move
+g1f3 g8f6 g2g3 g7g6 f1g2 f8g7 d2d4 d7d5 e1g1 e8g8                               : ......217 moves, avg. D26, 008 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 e1g1 e8g8                               : 1 000 000 moves, avg. D43, 059 counts/move
+e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 g1f3 b8c6 c2c3 g8f6                               : ....1 581 moves, avg. D28, 015 counts/move
+c2c4 e7e6 g1f3 d7d5 d2d4 f8e7 b1c3 g8f6 c1g5 h7h6                               : ....2 983 moves, avg. D32, 024 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 g1f3 b7b6 c1g5 c8b7                               : .......33 moves, avg. D01, 001 counts/move
+e2e4 e7e6 d2d4 d7d5 b1c3 d5e4 c3e4 b8d7 g1f3 g8f6                               : ......219 moves, avg. D27, 022 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 g1f3 b4c3 b2c3 b7b6                               : .......30 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 b8c6 f1b5 c8d7                               : .......54 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 e2e3 e7e6 b1d2 f8e7                               : .......27 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 g1e2 c5d4                               : ......269 moves, avg. D31, 018 counts/move
+d2d4 g8f6 c2c4 e7e6 e2e3 b7b6 g1f3 c8b7 b1c3 f8b4                               : ......610 moves, avg. D31, 028 counts/move
+d2d4 d7d5 c2c4 c7c6 c4d5 c6d5 c1f4 g8f6 b1c3 b8c6                               : ....1 264 moves, avg. D31, 019 counts/move
+e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 c3e4 g8f6 e4f6 e7f6                               : ......778 moves, avg. D32, 009 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 c2c3 d7d6                               : 1 000 000 moves, avg. D42, 053 counts/move
+c2c4 e7e6 g1f3 d7d5 e2e3 c7c5 d2d4 g8f6 b1c3 b8c6                               : ......601 moves, avg. D29, 020 counts/move
+c2c4 c7c5 g1f3 g8f6 g2g3 d7d5 f1g2 d5d4 e1g1 e7e6                               : ....5 140 moves, avg. D39, 041 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c6c5 d4c5 e7e6 a2a3 b8c6                               : .......37 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6                               : ...32 543 moves, avg. D45, 044 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 g1f3 b7b6 e2e3 e8g8                               : ......366 moves, avg. D29, 028 counts/move
+c2c4 c7c6 d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 b2b3 c6c5                               : ......140 moves, avg. D31, 032 counts/move
+g1f3 g8f6 d2d4 c7c6 c1f4 d7d5 e2e3 c8f5 b1d2 e7e6                               : .......38 moves, avg. D01, 001 counts/move
+c2c4 e7e6 g1f3 d7d5 d2d4 f8e7 g2g3 g8f6 f1g2 e8g8                               : ...78 823 moves, avg. D37, 106 counts/move
+c2c4 c7c6 e2e4 d7d5 e4d5 c6d5 d2d4 g8f6 b1c3 b8c6                               : ......434 moves, avg. D32, 029 counts/move
+d2d4 d7d5 c2c4 c7c6 e2e3 c8f5 g1f3 e7e6 f1d3 f5d3                               : .......29 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f1b5 b8d7 f3d4 g7g6                               : ......108 moves, avg. D24, 012 counts/move
+g1f3 g8f6 g2g3 g7g6 d2d4 f8g7 f1g2 d7d5 c2c4 e8g8                               : ......213 moves, avg. D27, 008 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f1b5 c8d7 f3d4 g8f6                               : .......47 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 d7d5 c2c4 d5c4 e2e3 e7e6 f1c4 c7c5                               : ......817 moves, avg. D36, 045 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f1b5 b8c6 f3d4 c8d7                               : .......50 moves, avg. D03, 003 counts/move
+d2d4 d7d5 e2e3 g8f6 g1f3 e7e6 f1d3 c7c5 b2b3 b8c6                               : ....3 400 moves, avg. D41, 044 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f1b5 b8d7 f3d4 g8f6                               : .......47 moves, avg. D01, 001 counts/move
+e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 f2f4 c7c5                               : 1 000 000 moves, avg. D35, 073 counts/move
+c2c4 e7e6 g1f3 g8f6 b1c3 f8b4 d1c2 e8g8 a2a3 b4c3                               : .......70 moves, avg. D31, 013 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 g2g3 d7d5 c4d5 f6d5                               : .......32 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 e2e3 b7b6 g1f3 c8b7 b1c3 d7d5                               : ......139 moves, avg. D29, 035 counts/move
+c2c4 c7c5 g1f3 g8f6 g2g3 d7d5 d2d4 d5c4 d1a4 d8d7                               : .......71 moves, avg. D18, 024 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 e7e6 e2e3 g8f6 d1c2 f8d6                               : ...55 517 moves, avg. D41, 066 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 d7d5 g1f3 f8g7 c1f4 e8g8                               : .......43 moves, avg. D02, 003 counts/move
+d2d4 d7d5 e2e3 c8f5 g1f3 c7c6 f1d3 e7e6 d3f5 e6f5                               : .......29 moves, avg. D01, 001 counts/move
+e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 g1f3 g8f6 c2c4 g7g6                               : ....1 278 moves, avg. D33, 046 counts/move
+d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 d5c4 g1f3 a7a6                               : ......432 moves, avg. D29, 012 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d2d3 f8c5                               : .......95 moves, avg. D21, 015 counts/move
+g1f3 g8f6 d2d4 c7c6 c1f4 d7d5 e2e3 c8f5 c2c4 e7e6                               : .......38 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 g2g3 c8a6 b1d2 c7c5                               : .......28 moves, avg. D04, 008 counts/move
+d2d4 g8f6 c2c4 c7c6 g1f3 d7d5 b1c3 a7a6 a2a4 e7e6                               : .......38 moves, avg. D03, 002 counts/move
+e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 b8c6 g1f3 e7e6                               : .......36 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 d7d5 b1c3 f8e7 c1f4 e8g8                               : ....8 061 moves, avg. D46, 028 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3 e7e6 c2c3 b8d7                               : ......363 moves, avg. D29, 045 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 f8c5 b5c6 d7c6                               : ....5 707 moves, avg. D14, 009 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 e7e6 d2d4 c5d4 f3d4 f8b4                               : .......32 moves, avg. D01, 001 counts/move
+g1f3 d7d5 d2d4 e7e6 g2g3 c7c5 f1g2 c5d4 f3d4 g8f6                               : ......174 moves, avg. D25, 037 counts/move
+g1f3 c7c5 c2c4 b8c6 e2e3 e7e6 d2d4 d7d5 d4c5 f8c5                               : .......90 moves, avg. D17, 013 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 g8f6 b1c3 b8c6                               : ......154 moves, avg. D29, 041 counts/move
+e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6 d4c6 b7c6                               : ......209 moves, avg. D26, 008 counts/move
+d2d4 d7d5 g1f3 e7e6 c2c4 c7c6 b1c3 d5c4 a2a4 f8b4                               : ....2 245 moves, avg. D31, 027 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 g1f3 e8g8 d1c2 d7d5                               : .......43 moves, avg. D04, 005 counts/move
+d2d4 d7d5 e2e3 c8f5 g1f3 e7e6 f1d3 f5d3 d1d3 b8c6                               : .......41 moves, avg. D01, 001 counts/move
+e2e4 c7c5 b1c3 g7g6 g1f3 b8c6 d2d4 c5d4 f3d4 f8g7                               : ...13 034 moves, avg. D36, 031 counts/move
+g1f3 c7c5 c2c4 b8c6 b1c3 g8f6 g2g3 d7d6 f1g2 e7e5                               : ......260 moves, avg. D28, 018 counts/move
+e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 g8f6 g1f3 e7e6                               : ......498 moves, avg. D31, 007 counts/move
+e2e4 c7c5 b1c3 b8c6 g1f3 e7e5 f1c4 f8e7 d2d3 d7d6                               : ......114 moves, avg. D21, 011 counts/move
+c2c4 e7e6 d2d4 d7d5 b1c3 c7c6 e2e4 d5e4 c3e4 f8b4                               : ...13 489 moves, avg. D45, 063 counts/move
+e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 f1d3 b8c6 c2c3 g8f6                               : ......114 moves, avg. D17, 003 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d2d3 d7d6                               : ......149 moves, avg. D24, 009 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 a7a6 c4d5 c6d5                               : ......126 moves, avg. D27, 027 counts/move
+c2c4 c7c6 e2e4 d7d5 e4d5 c6d5 d2d4 g8f6 b1c3 e7e6                               : .......41 moves, avg. D02, 003 counts/move
+e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 d5e4 c3e4 b8d7                               : .......97 moves, avg. D18, 008 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 d1c2 e8g8 e2e4 d7d6                               : .......33 moves, avg. D04, 006 counts/move
+g1f3 g8f6 d2d4 d7d5 c1f4 c8f5 e2e3 e7e6 f1d3 f8d6                               : ......131 moves, avg. D27, 013 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4 d7d6 f1e2 e8g8                               : ....7 231 moves, avg. D35, 027 counts/move
+g1f3 d7d5 e2e3 g8f6 d2d4 e7e6 f1d3 c7c5 c2c3 b7b6                               : .......40 moves, avg. D01, 001 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 g2g3 d7d5 c4d5 f6d5                               : ......875 moves, avg. D32, 025 counts/move
+d2d4 g8f6 c2c4 c7c6 b1c3 d7d5 g1f3 a7a6 c4c5 b8d7                               : .......34 moves, avg. D02, 003 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 d7d5                               : ......623 moves, avg. D30, 036 counts/move
+g1f3 d7d5 e2e3 g8f6 d2d4 e7e6 f1d3 c7c5 c2c3 b8c6                               : .......40 moves, avg. D01, 001 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 h2h3 c8d7 f1d3 b8c6                               : .......32 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 d1c2 e8g8 e2e4 d7d5                               : ....4 565 moves, avg. D42, 059 counts/move
+g1f3 d7d5 d2d4 g8f6 c1f4 b8c6 e2e3 f6h5 f4e5 f7f6                               : .......35 moves, avg. D01, 001 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 e7e6 d2d4 d7d5 c4d5 f6d5                               : ......364 moves, avg. D30, 027 counts/move
+g1f3 d7d5 g2g3 g8f6 d2d4 e7e6 f1g2 c7c5 c2c4 d5c4                               : ......623 moves, avg. D29, 031 counts/move
+e2e4 c7c5 g1f3 e7e6 b1c3 a7a6 f1e2 d7d6 d2d4 c5d4                               : .......38 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 e7e6 b1c3 a7a6 f1e2 b7b5 e1g1 c8b7                               : .......27 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 d7d5 b1c3 f8e7 c4d5 e6d5                               : ......978 moves, avg. D31, 038 counts/move
+e2e4 c7c5 g1f3 e7e6 b1c3 a7a6 f1e2 b7b5 d2d4 c5d4                               : ......253 moves, avg. D23, 006 counts/move
+d2d4 d7d5 g1f3 g8f6 e2e3 c7c6 c2c4 e7e6 b2b3 b8d7                               : ......172 moves, avg. D24, 022 counts/move
+c2c4 e7e6 g1f3 g8f6 b1c3 f8b4 d2d4 e8g8 c1g5 d7d6                               : .......33 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 f1d3 f8c5                               : .......44 moves, avg. D01, 001 counts/move
+e2e4 c7c6 f1e2 d7d5 e4e5 c6c5 g1f3 e7e6 e1g1 g8e7                               : .......25 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 g1f3 e8g8 c1g5 h7h6                               : .......33 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 c2c4 b8c6                               : .......35 moves, avg. D02, 003 counts/move
+e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 g1f3 b8c6 c1f4 g8f6                               : ......244 moves, avg. D27, 037 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 g1e2 d7d5                               : .......24 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c8f5 e2e3 e7e6 f1e2 f8d6                               : .......37 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 f1d3 g8f6                               : ....2 832 moves, avg. D34, 019 counts/move
+c2c4 g8f6 g1f3 c7c5 b1c3 e7e6 g2g3 b7b6 f1g2 c8b7                               : .......31 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f1d3 b8c6                               : .......44 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 e7e6 g1f3 f8e7 b1c3 g8f6 c1f4 b7b6                               : ......103 moves, avg. D15, 008 counts/move
+d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 b1d2 c7c5 b2b3 b8c6                               : ....3 102 moves, avg. D41, 043 counts/move
+e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 c2c4 g8f6                               : .......45 moves, avg. D05, 010 counts/move
+d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 e2e3 d5c4 f1c4 a7a6                               : ......813 moves, avg. D36, 045 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 g2g3 e8g8 f1g2 c7c5                               : .......40 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 c7c6 c1f4 d7d5 e2e3 e7e6 a2a3 f8d6                               : .......36 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 f8c5 c2c3 e8g8                               : ...52 347 moves, avg. D62, 067 counts/move
+d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 b1d2 f8e7 b2b3 e8g8                               : ......399 moves, avg. D27, 009 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 h2h3 g4f3 d1f3 g8f6                               : .......70 moves, avg. D31, 012 counts/move
+g1f3 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 d2d4 b4c3                               : .......94 moves, avg. D20, 012 counts/move
+e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 g1f3 c5d4 f3d4 b8c6                               : .......37 moves, avg. D01, 001 counts/move
+e2e4 c7c5 c2c3 g8f6 e4e5 f6d5 g1f3 b8c6 f1c4 d5b6                               : ......380 moves, avg. D28, 011 counts/move
+d2d4 d7d5 e2e3 c8f5 g1f3 e7e6 f1d3 b8c6 e1g1 g8f6                               : .......98 moves, avg. D19, 010 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 g2g3 e8g8 f1g2 b8c6                               : .......39 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f1d3 g7g6                               : .......44 moves, avg. D01, 001 counts/move
+g1f3 d7d5 g2g3 c7c6 f1g2 c8g4 e1g1 b8d7 d2d4 g8f6                               : .......31 moves, avg. D02, 002 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4                               : ......917 moves, avg. D31, 025 counts/move
+e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 b8c6 g1f3 c8g4                               : .......35 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 g2g3 e7e5 f1g2 f8e7                               : .......26 moves, avg. D01, 001 counts/move
+e2e4 c7c5 b1c3 a7a6 g1f3 e7e6 f1e2 b8c6 e1g1 g8f6                               : .......28 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 g1f3 d5c4 f1g2 b8c6                               : .......35 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 g2g3 b8c6 f1g2 e7e6                               : .......27 moves, avg. D01, 001 counts/move
+e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 e6d5 g1f3 g8f6                               : ......300 moves, avg. D25, 017 counts/move
+d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 e2e3 f8e7 b2b3 e8g8                               : ......284 moves, avg. D28, 009 counts/move
+e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3 c8d7                               : ......648 moves, avg. D25, 018 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 f1d3 c8g4 d3c2 b8c6                               : .......26 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c8f5 e2e3 e7e6 f1d3 f5g6                               : .......42 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1e2 g8f6 b1c3 d7d6 g2g3 g7g6 f1g2 f8g7                               : .......27 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 e7e6 c2c4 g8f6 b1c3 f8b4 c1g5 h7h6                               : ......381 moves, avg. D35, 040 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 d2d3 b8c6 g2g3 g7g6                               : .......29 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 e7e6 e2e3 g8f6 d1c2 b7b6                               : .......37 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 d2d4 c5d4 d1d4 a7a6                               : .......25 moves, avg. D03, 005 counts/move
+g1f3 c7c5 c2c4 b8c6 b1c3 g7g6 e2e3 g8f6 d2d4 c5d4                               : ......114 moves, avg. D26, 047 counts/move
+d2d4 g8f6 c2c4 e7e6 g2g3 d7d5 g1f3 f8b4 c1d2 b4e7                               : 1 000 000 moves, avg. D33, 046 counts/move
+g1f3 c7c5 c2c4 b8c6 e2e3 g8f6 b1c3 e7e5 d2d4 e5e4                               : ......104 moves, avg. D20, 010 counts/move
+g1f3 d7d5 e2e3 c7c5 b2b3 g8f6 c1b2 e7e6 d2d4 b8c6                               : ....6 233 moves, avg. D42, 045 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 d7d6 c2c3 c5b6                               : .......37 moves, avg. D02, 004 counts/move
+e2e4 c7c5 c2c3 g8f6 e4e5 f6d5 g1f3 d7d6 d2d4 c5d4                               : ......542 moves, avg. D31, 025 counts/move
+d2d4 d7d5 c1f4 g8f6 b1d2 e7e6 g1f3 f8d6 e2e3 b7b6                               : .......36 moves, avg. D01, 001 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 g2g3 f8b4 c3d5 b4c5                               : .......37 moves, avg. D03, 005 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 g8f6 c2c3 a7a6                               : ....3 939 moves, avg. D33, 032 counts/move
+e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f3e5 d7d5 b1d2 b8d7                               : .......37 moves, avg. D01, 001 counts/move
+g1f3 e7e6 c2c4 d7d5 d2d4 g8f6 b1c3 f8e7 d1c2 e8g8                               : .......43 moves, avg. D02, 004 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3 e7e6 f1e2 c6c5                               : .......85 moves, avg. D20, 012 counts/move
+g1f3 g8f6 c2c4 c7c5 g2g3 d7d5 d2d4 d5c4 d1a4 b8c6                               : ......148 moves, avg. D20, 013 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 a7a5                               : ..681 275 moves, avg. D43, 057 counts/move
+d2d4 d7d5 c2c4 e7e6 c4d5 e6d5 b1c3 c7c6 c1f4 g8f6                               : ......701 moves, avg. D30, 023 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 d7d6 f3g5 g8h6                               : .......40 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 d2d3 e7e5 f2f4 f8e7                               : .......25 moves, avg. D01, 001 counts/move
+e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3 d8b6                               : ......400 moves, avg. D30, 029 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 a7a6 h2h3 e7e6                               : .......36 moves, avg. D01, 001 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c6c5 g1f3 c8g4 d4c5 b8c6                               : ......166 moves, avg. D22, 006 counts/move
+e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 g1f3 g8f6 e4e5 f6d7                               : ...15 393 moves, avg. D35, 074 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 g2g3 e8g8 f1g2 d7d6                               : ....2 420 moves, avg. D34, 024 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 g2g3 b8c6 d2d3 e7e6                               : .......29 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g2g3 f8b4 c1d2 b4e7 f1g2 d7d5                               : 1 000 000 moves, avg. D34, 050 counts/move
+d2d4 d7d5 c2c4 e7e6 c4d5 e6d5 b1c3 c7c6 c1f4 c8f5                               : ......565 moves, avg. D27, 018 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 e7e6 e1g1 g8e7 d2d4 c5d4                               : ......507 moves, avg. D27, 015 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 g8f6 d2d3 a7a5                               : ..691 281 moves, avg. D43, 058 counts/move
+d2d4 d7d5 c1f4 g8f6 b1d2 e7e6 g1f3 f8d6 e2e3 e8g8                               : ......114 moves, avg. D21, 037 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 g2g3 c8a6 d1c2 a6b7                               : ......352 moves, avg. D31, 044 counts/move
+d2d4 d7d5 c1f4 c7c5 g1f3 c5d4 c2c3 d8b6 c3d4 g8f6                               : .......36 moves, avg. D01, 001 counts/move
+e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 b8c6 g1f3 c8f5                               : .......36 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 c2c3 c5b6                               : .......87 moves, avg. D19, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3 e7e6                               : .......38 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 e7e6 b1c3 g8f6 g1f3 f8b4 c4d5 e6d5                               : ....1 059 moves, avg. D32, 054 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 f6g4                     : 1 000 000 moves, avg. D31, 042 counts/move
+d2d4 d7d5 c2c4 c7c6 e2e3 c8f5 g1f3 e7e6 b1c3 f8d6                               : .......35 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 d1c2 d7d5 c4d5 d8d5                               : .......31 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 c7c6 c2c4 e7e6 c1f4 f8e7 b1c3 d7d5                               : .......43 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 b5c6 d7c6 d2d3 f8g7                               : .......53 moves, avg. D13, 015 counts/move
+g1f3 c7c5 c2c4 b8c6 e2e3 e7e5 b1c3 g8f6 f1e2 d7d5                               : ......272 moves, avg. D32, 007 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 g8f6 c1g5 h7h6                               : .......40 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c8f5 e2e3 e7e6 b1c3 c7c6                               : .......42 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 d2d4 g8f6 b1c3 c5d4                               : .......52 moves, avg. D05, 005 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 f2f3 c7c5 d4d5 d7d6                               : .......26 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 c7c6 c2c4 d7d5 b1c3 a7a6 e2e3 b7b5                               : .......81 moves, avg. D19, 002 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 f1e1 g8f6                               : ......734 moves, avg. D30, 020 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c8f5 e2e3 e7e6 c2c4 d5c4                               : .......37 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 c2c4 g7g6                               : ......306 moves, avg. D29, 039 counts/move
+d2d4 g8f6 g1f3 c7c6 c2c4 e7e6 e2e3 d7d5 f1d3 d5c4                               : ......857 moves, avg. D36, 044 counts/move
+e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 g1f3 c5d4 f3d4 g8f6                               : .......56 moves, avg. D14, 006 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 f1d3 c8g4 e1g1 b8c6                               : .......27 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 e7e6 c4d5 e6d5 b1c3 c7c6 g1f3 g8f6                               : ......835 moves, avg. D29, 029 counts/move
+g1f3 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 d2d4 b8c6                               : .......28 moves, avg. D01, 001 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3 e7e6 f1e2 b8d7 c2c3 g8e7 e1g1 h7h6           : ......607 moves, avg. D30, 050 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 e2e3 b8d7 f1d3 d5c4 d3c4 b7b5           : 1 000 000 moves, avg. D48, 055 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 f8c5 b1d2 d7d6                               : ...98 295 moves, avg. D63, 069 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2 e7e6                     : .......42 moves, avg. D01, 001 counts/move
+g1f3 g8f6 g2g3 d7d5 d2d4 c7c5 f1g2 c5d4 e1g1 e7e6                               : .......34 moves, avg. D02, 003 counts/move
+e2e4 c7c5 g1f3 e7e6 b1c3 b8c6 d2d4 c5d4 f3d4 g8f6                               : ....7 834 moves, avg. D41, 049 counts/move
+g1f3 e7e6 d2d4 d7d5 c2c4 g8f6 b1c3 a7a6 c4d5 e6d5                               : ....2 625 moves, avg. D24, 010 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 d2d4 c5d4 d1d4 e7e5                               : .......52 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 d4c6 b7c6                               : .......39 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 b8c6 d4d3 g7g6                               : ......156 moves, avg. D27, 048 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 g2g3 f8c5 f1g2 d7d6                               : .......49 moves, avg. D08, 002 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 b5c6 b7c6 e1g1 f8g7                               : ......316 moves, avg. D34, 031 counts/move
+d2d4 d7d5 c1f4 g7g6 b1c3 f8g7 e2e3 g8f6 g1f3 e8g8                               : .......41 moves, avg. D01, 001 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 f1e2 d5e4 c3e4 b8d7                               : .......32 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 f2f3 d7d5 a2a3 b4c3                               : ......229 moves, avg. D29, 015 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 g2g3                          : ......344 moves, avg. D29, 045 counts/move
+d2d4 g8f6 c2c4 c7c6 c1f4 d7d5 e2e3 e7e6 b1c3 f8e7                               : .......45 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f1b5 c8d7 b5d7                                    : .......36 moves, avg. D02, 003 counts/move
+e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f3e5 d7d6 e5f3 d6d5                               : ...28 947 moves, avg. D31, 013 counts/move
+e2e4 c7c5 g1e2 g8f6 b1c3 b8c6 d2d4 c5d4 e2d4 e7e5                               : ....5 954 moves, avg. D44, 044 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 f1d3 e7e5 d3c2 b8c6                               : .......26 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c7c5 e2e3 e7e6 c2c3 b8c6                               : ......420 moves, avg. D27, 014 counts/move
+e2e4 c7c5 g1f3 e7e6 b1c3 a7a6 f1e2 b7b5 e1g1 d8c7                               : .......27 moves, avg. D01, 001 counts/move
+g1f3 d7d5 d2d4 e7e6 c2c4 d5c4 e2e3 g8f6 b1c3 c7c5                               : .......36 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 b8d7 e1g1 g8f6                               : .......24 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c8f5 e2e3 e7e6 b1c3 f8d6                               : .......40 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 b7b5 a4b3 g8f6 e1g1 c8b7 d2d3 f8e7           : .......35 moves, avg. D03, 007 counts/move
+g1f3 g8f6 g2g3 g7g6 f1g2 d7d5 c2c4 c7c6 b2b3 f8g7                               : .......28 moves, avg. D01, 001 counts/move
+g1f3 c7c5 e2e4 b8c6 d2d4 c5d4 f3d4 d8c7 d4b5 c7b8                               : .......43 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 f1d3 c8b7 b1d2 c7c5                               : .......38 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5                          : ....1 390 moves, avg. D37, 060 counts/move
+g1f3 d7d5 g2g3 c7c6 f1g2 g8f6 d2d4 c8f5 c2c4 e7e6                               : .......36 moves, avg. D01, 001 counts/move
+c2c4 e7e6 d2d4 g8f6 g1f3 d7d5 g2g3 d5c4 f1g2 f8b4                               : ......288 moves, avg. D26, 015 counts/move
+d2d4 d7d5 c2c4 e7e6 c4d5 e6d5 b1c3 c7c6 d1c2 f8d6                               : .......44 moves, avg. D02, 003 counts/move
+d2d4 d7d5 c1f4 g7g6 b1c3 f8g7 e2e3 g8f6 d1d2 e8g8                               : .......41 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 g1f3 b7b6 d1c2 b4c3                               : ........6 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 g7g6 g2g3 d7d5 f1g2 c7c6 c4d5 c6d5                               : ......588 moves, avg. D34, 013 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2 e7e5                     : .......41 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 g2g3 c8a6 b1d2 d7d5                               : .......40 moves, avg. D12, 024 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8           : 1 000 000 moves, avg. D39, 073 counts/move
+d2d4 g8f6 c2c4 g7g6 g2g3 c7c6 f1g2 d7d5 e2e3                                    : .......32 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 d2d3 g8f6                               : .......35 moves, avg. D01, 001 counts/move
+g1f3 d7d5 d2d4 e7e6 g2g3 c7c5 f1g2 b8c6 e1g1 c5d4                               : .......33 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 c7c6 c1f4 d8b6 d1d2 f6e4 d2c2 d7d5                               : .......36 moves, avg. D01, 001 counts/move
+g1f3 g8f6 d2d4 e7e6 c2c4 b7b6 a2a3 c8a6 d1c2 a6b7                               : .......37 moves, avg. D01, 001 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 f1d3 e7e5 e1g1 b8c6                               : .......27 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 b7b5 a4b3 g8f6 d2d3                          : ......220 moves, avg. D25, 033 counts/move
+g1f3 g8f6 d2d4 c7c6 c1f4 d8b6 b1d2 d7d5 e2e3 b6b2                               : .......36 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 d7d6 c2c3 g8f6                               : 1 000 000 moves, avg. D43, 054 counts/move
+g1f3 d7d5 d2d4 g8f6 c1f4 c7c5 e2e3 b8c6 b1d2 d8b6                               : ....2 025 moves, avg. D46, 053 counts/move
+g2g3 e7e5 c2c4 g8f6 b1c3 d7d5 c4d5 f6d5 f1g2 d5b6                               : ....2 787 moves, avg. D33, 023 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d6 : ...49 186 moves, avg. D43, 048 counts/move
+d2d4 g8f6 c2c4 c7c6 c1f4 d7d5 e2e3 e7e6 b1c3 b8d7                               : .......45 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 f1d3 d7d5 b1d2 c7c5                               : ....2 642 moves, avg. D36, 026 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4                               : ....6 485 moves, avg. D42, 044 counts/move
+c2c4 g8f6 d2d4 g7g6 f2f3 d7d5 c4d5 f6d5 e2e4 d5b6                               : ......458 moves, avg. D36, 019 counts/move
+c2c4 g8f6 d2d4 g7g6 f2f3 c7c5 d4d5 d7d6 b1c3 e7e6                               : .......31 moves, avg. D01, 001 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c6c5 d4c5 e7e6 a2a3 f8c5                               : ......133 moves, avg. D24, 042 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c6c5 d4c5 e7e6 g1f3 f8c5                               : ......134 moves, avg. D24, 042 counts/move
+c2c4 e7e6 g1f3 d7d5 e2e3 g8f6 d2d4 b7b6 b1c3 f8d6                               : ......960 moves, avg. D30, 039 counts/move
+c2c4 e7e6 d2d4 g8f6 g2g3 c7c5 d4d5 e6d5 c4d5 d7d6                               : .......70 moves, avg. D36, 012 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e5 d4f3                : ......493 moves, avg. D30, 025 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 g1f3 e8g8 g2g3 d7d6                               : ....2 416 moves, avg. D34, 024 counts/move
+d2d4 g8f6 c2c4 g7g6 g2g3 d7d5 c4d5 f6d5 f1g2 f8g7                               : ......157 moves, avg. D25, 010 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e6                     : ......403 moves, avg. D29, 038 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 g2g3 f8b4 f1g2 d7d6                               : .......31 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 d7d5 c4d5 f6d5 e2e4 d5c3 b2c3                          : ....1 168 moves, avg. D37, 043 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3 a7a6                               : ..535 811 moves, avg. D32, 045 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3 e7e6 c2c3 h7h6                               : .......34 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 c7c6 b1c3 d7d5 c4d5 c6d5 d2d4 b8c6                               : ......189 moves, avg. D28, 024 counts/move
+g1f3 g8f6 c2c4 c7c6 d2d4 e7e6 c1f4 d7d5 e2e3 b8d7                               : .......38 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 c7c6 d2d4 e7e6 e2e3 d7d5 b2b3 f8d6                               : ......178 moves, avg. D23, 021 counts/move
+e2e4 c7c5 g1e2 g8f6 b1c3 d7d6 g2g3 b8c6 f1g2 e7e5                               : .......70 moves, avg. D31, 012 counts/move
+d2d4 g8f6 c2c4 c7c6 e2e3 d7d5 g1f3 b8d7 f1d3 d5c4                               : .......38 moves, avg. D01, 001 counts/move
+c2c4 e7e5 b1c3 g8f6 g2g3 f8b4 f1g2 e8g8 g1f3 f8e8                               : .......35 moves, avg. D05, 004 counts/move
+c2c4 c7c6 d2d4 g8f6 c1f4 d7d5 e2e3 c8f5 b1c3 e7e6                               : .......45 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 e8g8 f1d3 c7c5                               : ......385 moves, avg. D26, 012 counts/move
+d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 b1d2 c7c5 f1e2 b8c6                               : .......32 moves, avg. D02, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 d2d4 c6d4 : .......51 moves, avg. D14, 035 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 h2h3 g4f3 d1f3 e7e6                               : .......39 moves, avg. D02, 004 counts/move
+g1f3 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 d2d4 e8g8                               : ......638 moves, avg. D28, 023 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e5 d4b3                : ..655 846 moves, avg. D34, 055 counts/move
+g1f3 d7d5 e2e3 c7c5 b2b3 g8f6 c1b2 e7e6 d2d4 c5d4                               : ......335 moves, avg. D38, 040 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 g2g3 e7e5 f1g2 a7a6                               : .......26 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 c7c6 e2e3 c8f5 g1f3 e7e6 b1c3 b8d7                               : .......35 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 d4b3 c5b6                               : ......141 moves, avg. D26, 013 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 f1d3 c8b7 b1d2 d7d5                               : ....3 499 moves, avg. D32, 031 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 d1c2 e8g8 a2a3 b4c3                               : .......19 moves, avg. D32, 056 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 c1g5 h7h6 g5h4                          : ..112 872 moves, avg. D45, 062 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 f1e2 g8f6 e4e5 f6d7                               : .......30 moves, avg. D02, 005 counts/move
+g1f3 c7c5 e2e4 b8c6 d2d4 c5d4 f3d4 e7e5 d4b5 d7d6                               : ....6 031 moves, avg. D44, 044 counts/move
+d2d4 g8f6 g1f3 e7e6 c2c3 c7c5 e2e3 d7d5 b1d2 b8c6                               : .......31 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 g2g3 c8a6 b1d2 a6b7                               : ......191 moves, avg. D25, 028 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 c2c3 g8f6                               : ......373 moves, avg. D28, 011 counts/move
+d2d4 d7d5 c1f4 g8f6 g1f3 c8f5 e2e3 e7e6 f1d3 f6e4                               : .......38 moves, avg. D01, 001 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 d2d4 d5e4 c3e4 e7e6                               : .......39 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 f1d3 d7d5 c2c4 f8d6                               : ...18 507 moves, avg. D32, 042 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 f1d3 d7d5 b2b3 c8b7                               : ....4 096 moves, avg. D31, 030 counts/move
+e2e4 c7c6 c2c4 d7d5 e4d5 c6d5 c4d5 g8f6 f1b5 b8d7                               : .......35 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 g2g3 c8a6 b2b3 d7d5                               : ....1 628 moves, avg. D34, 049 counts/move
+g1f3 g8f6 c2c4 c7c6 d2d4 e7e6 e2e3 d7d5 f1d3 c6c5                               : ......413 moves, avg. D56, 048 counts/move
+e2e4 c7c5 g1e2 g8f6 b1c3 d7d6 d2d3 e7e5 f2f4 b8c6                               : .......25 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 c7c6 e2e3 d7d5 g1f3 c8g4 b1c3 e7e6                               : .......35 moves, avg. D02, 002 counts/move
+d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 b1d2 c7c5 f1e2 b7b6                               : .......31 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f2f3                          : ..535 802 moves, avg. D32, 045 counts/move
+c2c4 e7e6 g1f3 d7d5 e2e3 g8f6 d2d4 c7c6 b1d2 c6c5                               : .......33 moves, avg. D04, 006 counts/move
+e2e4 c7c6 c2c4 d7d5 e4d5 c6d5 c4d5 g8f6 g1f3 f6d5                               : .......28 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 a2a4      : ..382 461 moves, avg. D34, 093 counts/move
+c2c4 e7e5 b1c3 g8f6 g2g3 f8b4 f1g2 e8g8 g1f3 e5e4                               : ......128 moves, avg. D26, 044 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 b1c3 f8b4 d1b3 d8e7                               : .......29 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 f1d3 d7d5 b2b3 c7c5                               : ....2 428 moves, avg. D33, 026 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 d2d4 e7e6 f1d3 g8f6                               : .......38 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 b5c6 b7c6 d2d4 f8g7                               : .......35 moves, avg. D01, 001 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 b8c6 g2g3 d7d6 f1g2 c8d7                               : .......31 moves, avg. D01, 001 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c6c5 c2c3 b8c6 f1e2 c8f5                               : ......396 moves, avg. D28, 013 counts/move
+g1f3 c7c5 c2c4 g8f6 g2g3 g7g6 d2d4 f8g7 d4d5 e7e6                               : .......35 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 e1g1 a7a6                               : .......84 moves, avg. D17, 002 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 d7d5 g1f3 f8g7 d1b3 d5c4 b3c4                          : .......44 moves, avg. D12, 023 counts/move
+c2c4 e7e6 g2g3 g8f6 f1g2 d7d5 g1f3 f8e7 e1g1 e8g8                               : ...78 865 moves, avg. D37, 106 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 b8d7 d2d3 g8f6                               : .......34 moves, avg. D01, 001 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 d2d4 e7e6 h2h3 g4f3                               : .......33 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 g1f3 e8g8 g2g3 d7d5                               : .......39 moves, avg. D03, 002 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 e7e6 e2e3 g8f6 d1c2 b8d7                               : ...55 514 moves, avg. D41, 066 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 e1g1 g8f6                               : .......24 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 c7c6 e2e3 c8f5 g1f3 e7e6 b1c3 f8e7                               : .......35 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 d2d3 d7d6                               : .......35 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 b1d2 c7c5 f1e2 f8e7                               : .......31 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 f8e7 c2c3 g8f6                               : .......28 moves, avg. D01, 001 counts/move
+g1f3 g8f6 d2d4 e7e6 c2c4 d7d5 e2e3 f8e7 b1d2 c7c5                               : .......27 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 e7e6 c2c3 c7c5 c1g5 b7b6 e2e3 c8b7                               : .......37 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 b7b5                               : ......461 moves, avg. D38, 038 counts/move
+e2e4 c7c6 f1e2 d7d5 e4e5 c6c5 g1f3 e7e6 c2c3 b8c6                               : .......28 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 b1c3 c8b7 a2a3 d7d5                               : ......156 moves, avg. D27, 057 counts/move
+c2c4 c7c6 d2d4 d7d5 g1f3 g8f6 e2e3 c8g4 h2h3 g4f3                               : .......46 moves, avg. D13, 006 counts/move
+g1f3 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 f1e2 e8g8                               : ......417 moves, avg. D28, 030 counts/move
+d2d4 d7d5 c2c4 c7c6 c4d5 c6d5 c1f4 b8c6 e2e3 g8f6                               : ....1 252 moves, avg. D31, 019 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 e7e6 e2e3 g8f6 d1c2 f8e7                               : .......37 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c8f5 e2e3 e7e6 b1c3 f8b4                               : .......34 moves, avg. D01, 001 counts/move
+e2e4 c7c6 c2c4 d7d5 e4d5 c6d5 c4d5 g8f6 b1c3 f6d5                               : .......35 moves, avg. D01, 001 counts/move
+c2c4 e7e6 g1f3 d7d5 e2e3 g8f6 d2d4 d5c4 b1c3 a7a6                               : ......238 moves, avg. D30, 062 counts/move
+e2e4 c7c5 g1f3 d7d6 b1c3 e7e5 f1c4 f8e7 h2h3 g8f6                               : .......37 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 c7c5 d2d4 d7d5                               : ......615 moves, avg. D30, 036 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 b8d7 d2d3 e7e6                               : .......44 moves, avg. D04, 002 counts/move
+g1f3 d7d5 e2e3 g8f6 d2d4 e7e6 b2b3 f8d6 c2c4 c7c5                               : .......65 moves, avg. D14, 005 counts/move
+e2e4 c7c5 g1f3 e7e6 b1c3 a7a6 f1e2 b8c6 d2d4 c5d4                               : .......38 moves, avg. D01, 001 counts/move
+c2c4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 g1f3 e8g8                               : ....3 237 moves, avg. D31, 020 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3 e7e6 f1e2 g8e7                               : ......961 moves, avg. D30, 040 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 b5c6 b7c6 d2d4 c8a6                               : .......38 moves, avg. D03, 009 counts/move
+g1f3 d7d5 e2e3 g8f6 d2d4 e7e6 b2b3 f8d6 f1d3 b7b6                               : ....7 287 moves, avg. D32, 041 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 f8e7 a4c6 d7c6                               : .......25 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c1f4 g8f6 g1f3 c8f5 e2e3 e7e6 f1d3 f5d3                               : .......33 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 c7c6 c1f4 d7d5 e2e3 e7e6 b1c3 f8d6                               : .......43 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3 e7e5                               : .......70 moves, avg. D32, 015 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 b1c3 f8b4 d1b3 c7c5                               : .......30 moves, avg. D02, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 d7d5 b1c3 f8e7 d1c2 c7c5                               : .......42 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 g2g3 g7g6 f1g2 b8c6                               : .......30 moves, avg. D04, 005 counts/move
+g1f3 d7d5 d2d4 e7e6 g2g3 c7c5 f1g2 b8c6 e1g1 g8f6                               : ......623 moves, avg. D29, 031 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 e1g1 a7a6 b5d3 g8f6                               : ......300 moves, avg. D28, 013 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 d5e4 c3e4 g8f6 e4f6 e7f6                               : ......233 moves, avg. D27, 010 counts/move
+e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 h2h3 e7e5 f1b5 b8d7                               : .......35 moves, avg. D01, 001 counts/move
+c2c4 e7e6 g1f3 d7d5 e2e3 c7c5 d2d4 g8f6 b1c3 a7a6                               : ......182 moves, avg. D24, 021 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 f1e2 c8d7 d2d3                                    : .......32 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 b1d2                                    : .......36 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 f1d3 c8b7 e1g1                                    : ....6 518 moves, avg. D32, 036 counts/move
+e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 h2h3 b8c6 f1d3                                    : .......36 moves, avg. D02, 004 counts/move
+c2c4 c7c6 d2d4 d7d5 g1f3 g8f6 e2e3 b8d7 b1d2 e7e6                               : ......104 moves, avg. D23, 037 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 f1e2 b8d7 d2d3                                    : .......25 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 g7g6 f2f3 c7c5 d4d5 f8g7 b1c3 d7d6 e2e4 e8g8                     : .......34 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 e7e6 c4d5 e6d5 b1c3 g8f6 c1g5 b8d7                               : .......34 moves, avg. D09, 012 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 a7a6 f3g5 g8h6                               : .......40 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c1f4 g8f6 b1d2 e7e6 g1f3 f8d6 e2e3 d6f4                               : .......88 moves, avg. D18, 007 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 g2g3 g7g6 d2d4 c5d4                               : ......120 moves, avg. D27, 012 counts/move
+e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f3e5 d7d5 b1d2 f8d6                               : ......357 moves, avg. D27, 012 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 e7e6 e1g1 g8e7 c2c3 a7a6                               : ......102 moves, avg. D19, 010 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 a2a4 e8g8                               : ..175 684 moves, avg. D40, 078 counts/move
+g1f3 d7d5 g2g3 c7c6 f1g2 g8f6 e1g1 c8f5 d2d3                                    : .......34 moves, avg. D03, 003 counts/move
+d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 e2e3 f8d6 b1d2 e8g8                               : ....1 623 moves, avg. D32, 037 counts/move
+e2e4 c7c5 g1f3 d7d6 b1c3 e7e5 f1c4 f8e7 d2d3 g8f6                               : .......52 moves, avg. D13, 023 counts/move
+d2d4 g8f6 g1f3 e7e6 c2c3 c7c5 c1g5 f8e7 b1d2 c5d4                               : .......33 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 a2a4 h7h6                               : .......68 moves, avg. D13, 014 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 d2d4 e7e6 f1d3 d5e4                               : .......39 moves, avg. D01, 001 counts/move
+d2d4 d7d5 g1f3 g8f6 c1f4 c8f5 e2e3 e7e6 b1c3 b8d7                               : .......41 moves, avg. D01, 001 counts/move
+e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 g1f3 b8c6 c1f4 c8g4                               : .......39 moves, avg. D01, 001 counts/move
+e2e4 e7e6 d2d4 d7d5 b1c3 d5e4 c3e4 b8d7 f1d3 g8f6                               : .......42 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 c7c6 c2c4 d7d5 b1c3 a7a6 e2e3 e7e6                               : ......105 moves, avg. D25, 020 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 f2f3 c7c5 d4d5 b4c3                               : ......212 moves, avg. D26, 030 counts/move
+d2d4 d7d5 g1f3 c7c6 c2c4 e7e6 e2e3 g8f6 b2b3 f6e4                               : .......28 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 d2d3 b8c6 d3d4 c5d4                               : .......30 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 c7c6 g2g3 d7d5 f1g2 f8e7                               : ......176 moves, avg. D23, 018 counts/move
+g1f3 d7d5 e2e3 g8f6 d2d4 e7e6 b2b3 f8b4 c2c3 b4d6                               : ...10 283 moves, avg. D32, 036 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 : 1 000 000 moves, avg. D45, 048 counts/move
+e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 e7e6 b1c3 a7a6                               : ......172 moves, avg. D23, 012 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 c7c6 g2g3 d7d5 f1g2 d5c4                               : ......109 moves, avg. D23, 021 counts/move
+g1f3 g8f6 c2c4 g7g6 g2g3 f8g7 f1g2 e8g8 e1g1                                    : .......26 moves, avg. D02, 001 counts/move
+e2e4 c7c5 g1e2 d7d6 b1c3 g8f6 d2d3 e7e5 g2g3                                    : .......33 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 a2a4 a7a6                               : .......40 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 f1e1 e7e5                               : ......163 moves, avg. D27, 013 counts/move
+g1f3 d7d5 e2e3 g8f6 d2d4 e7e6 b2b3 f8d6 c2c4 b7b6                               : ....3 332 moves, avg. D31, 034 counts/move
+e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 f1e2 g7g6 e1g1 f8g7                               : .......28 moves, avg. D01, 001 counts/move
+g1f3 g8f6 d2d4 c7c6 c1f4 d8b6 d1c1 d7d6 c2c4                                    : .......36 moves, avg. D01, 001 counts/move
+c2c4 c7c6 d2d4 d7d5 g1f3 g8f6 e2e3 c8g4 h2h3 g4h5                               : .......63 moves, avg. D31, 015 counts/move
+e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 f1d3 g8f6 g1f3 b8c6                               : ....1 575 moves, avg. D28, 014 counts/move
+g1f3 d7d5 g2g3 c7c6 f1g2 g8f6 e1g1 c8f5 c2c4 e7e6                               : .......29 moves, avg. D02, 002 counts/move
+d2d4 d7d5 g1f3 c7c6 c2c4 g8f6 e2e3 c8f5 b1c3 e7e6                               : ....3 380 moves, avg. D32, 019 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 h2h3                                    : .......36 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 e7e6 c4d5 e6d5 b1c3 c7c6 c1f4 f8d6                               : ......475 moves, avg. D26, 015 counts/move
+g1f3 c7c5 e2e4 d7d6 c2c3 g8f6 f1d3 c8g4 d3c2 e7e6                               : .......26 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 g2g3 c8a6 d1c2 c7c5                               : ....1 051 moves, avg. D34, 063 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 b8c6 g2g3 d7d6 f1g2 g7g6                               : .......31 moves, avg. D01, 001 counts/move
+g1f3 g8f6 g2g3 d7d5 d2d4 c7c5 f1g2 c5d4 e1g1 h7h6                               : ......311 moves, avg. D41, 046 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c6c5 g1f3 b8c6 d4c5 e7e6                               : .......77 moves, avg. D27, 010 counts/move
+d2d4 d7d5 c2c4 e7e6 b1c3 f8e7 c4d5 e6d5 c1f4 c7c6                               : .......70 moves, avg. D31, 013 counts/move
+e2e4 c7c5 g1f3 d7d6 b1c3 e7e5 f1c4 f8e7 e1g1 g8f6                               : .......39 moves, avg. D06, 010 counts/move
+c2c4 e7e6 d2d4 d7d5 b1c3 g8f6 g1f3 c7c6 c1g5 d5c4                               : ..163 203 moves, avg. D43, 075 counts/move
+d2d4 d7d5 c2c4 c7c6 c4d5 c6d5 c1f4 b8c6 g1f3 g8f6                               : ......190 moves, avg. D28, 024 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 e7e6 d2d4 c5d4 f3d4 a7a6                               : .......41 moves, avg. D05, 009 counts/move
+g1f3 c7c5 e2e4 b8c6 d2d4 c5d4 f3d4 d8c7 f1e2 e7e6                               : ......448 moves, avg. D27, 023 counts/move
+d2d4 g8f6 g1f3 c7c6 c2c4 e7e6 e2e3 d7d5 f1d3 f8d6                               : .......91 moves, avg. D19, 007 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 b8d7 d1e2 g8f6                               : .......32 moves, avg. D01, 001 counts/move
+g1f3 g8f6 c2c4 b7b6 d2d4 e7e6 g2g3 c8a6 b1d2 f8b4                               : ......929 moves, avg. D37, 082 counts/move
+g1f3 d7d5 e2e3 g8f6 d2d4 e7e6 b2b3 f8d6 c2c4 e8g8                               : ....7 645 moves, avg. D32, 037 counts/move
+d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 e2e3 f8e7 b1c3 e8g8                               : ....1 198 moves, avg. D30, 032 counts/move
+e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 f1e2 c8d7 d1c2 d8c7                               : .......33 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 g7g6 g2g3 c7c6 f1g2 d7d5 d1a4                                    : .......31 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 b7b6 b1c3 f8b4 d1c2 c8b7                               : .......35 moves, avg. D01, 001 counts/move
+e2e4 c7c5 c2c3 g8f6 e4e5 f6d5 g1f3 b8c6 d2d4 c5d4                               : .......38 moves, avg. D01, 001 counts/move
+c2c4 c7c6 d2d4 d7d5 g1f3 e7e6 g2g3 d5c4 f1g2 b7b5                               : .......35 moves, avg. D01, 001 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4 d7d6 g1f3 e8g8                               : ....7 252 moves, avg. D35, 028 counts/move
+c2c4 c7c5 g1f3 b8c6 b1c3 g8f6 g2g3 d7d5 d2d4 e7e6                               : ....1 611 moves, avg. D40, 067 counts/move
+d2d4 d7d5 c2c4 e7e6 b1c3 g8f6 c4d5 e6d5 c1g5 c7c6                               : ....2 382 moves, avg. D33, 026 counts/move
+c2c4 c7c5 g1f3 b8c6 b1c3 g8f6 g2g3 d7d6 d2d4 c5d4                               : .......46 moves, avg. D05, 006 counts/move
+d2d4 d7d5 c1f4 c7c5 e2e3 b8c6 g1f3 c8g4 c2c3 e7e6                               : ......139 moves, avg. D19, 010 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 b5c6 b7c6 d2d4 c5d4                               : .......35 moves, avg. D01, 001 counts/move
+g1f3 c7c5 c2c4 g8f6 g2g3 g7g6 f1g2 f8g7 d2d4 e8g8                               : .......36 moves, avg. D01, 001 counts/move
+g1f3 c7c5 c2c4 g8f6 g2g3 g7g6 f1g2 f8g7 d2d4 c5d4                               : .......37 moves, avg. D01, 001 counts/move
+g1f3 d7d5 g2g3 g8f6 d2d4 e7e6 f1g2 f8b4 c2c3 b4e7                               : ..130 088 moves, avg. D36, 104 counts/move
+g1f3 c7c5 c2c4 g8f6 g2g3 g7g6 d2d4 f8g7 f1g2 d8a5                               : ........7 moves, avg. D01, 001 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 h2h3                          : ......120 moves, avg. D25, 019 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d2d3                          : ....1 094 moves, avg. D38, 039 counts/move
+e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 b1c3                                    : ......675 moves, avg. D29, 010 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 a2a3                                              : ......490 moves, avg. D30, 032 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 b8c6 d4e3                                    : .......31 moves, avg. D01, 001 counts/move
+g1f3 d7d5 g2g3 c7c6 f1g2 g8f6 d2d4 c8f5 f3h4                                    : ......115 moves, avg. D29, 023 counts/move
+e2e4 c7c6 b1c3 d7d5 d2d4 d5e4 c3e4 c8f5 e4g3 f5g6                               : ....2 329 moves, avg. D32, 018 counts/move
+e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 g1f3 c5d4 e4d5 d8d5 f1c4                          : ....3 455 moves, avg. D28, 015 counts/move
+d2d4 d7d5 c2c4 c7c6 b1c3 g8f6 e2e3 e7e6 b2b3                                    : ...19 482 moves, avg. D38, 051 counts/move
+g1f3 g8f6 d2d4 d7d5 c1f4 c7c5 e2e3 e7e6 f1e2                                    : ....1 533 moves, avg. D32, 049 counts/move
+g1f3 g8f6 c2c4 b7b6 g2g3 e7e6 f1g2 c8b7 e1g1                                    : ......400 moves, avg. D29, 037 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 e7e6 e2e4 b8c6 d2d4 c5d4 f3d4                          : .......39 moves, avg. D06, 007 counts/move
+c2c4 e7e6 g1f3 d7d5 e2e3 g8f6 d2d4 f8e7 b1d2                                    : ......156 moves, avg. D26, 003 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 a2a4 g8f6 b1c3 g7g6                               : .......35 moves, avg. D01, 001 counts/move
+g1f3 d7d5 g2g3 c7c6 f1g2 g8f6 c2c4                                              : .......32 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 e2e3 b8d7 f1e2                          : 1 000 000 moves, avg. D48, 054 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 h2h3 g4h5                                         : .......32 moves, avg. D01, 001 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 e2e3 f8b4                                         : ......179 moves, avg. D27, 017 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 a7a6 b1c3                                    : .......57 moves, avg. D03, 002 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 d2d3 d7d6 : ..190 559 moves, avg. D34, 094 counts/move
+c2c4 g8f6 g1f3 c7c5 b1c3 e7e6 g2g3 b8c6 f1g2                                    : ......131 moves, avg. D23, 018 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3 e7e6 f1e2 b8d7 e1g1 g8e7                     : ......575 moves, avg. D29, 036 counts/move
+g1f3 d7d5 g2g3 c7c6 f1g2 g8f6 d2d4 c8f5 e1g1                                    : .......33 moves, avg. D03, 001 counts/move
+c2c4 e7e5 b1c3 g8f6 g1f3 b8c6 e2e4 f8b4 d2d3                                    : 1 000 000 moves, avg. D44, 044 counts/move
+g1f3 g8f6 d2d4 d7d5 c1f4 c7c5 e2e3 b8c6 f1e2                                    : .......54 moves, avg. D13, 024 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 a4c6 d7c6                     : ......931 moves, avg. D31, 050 counts/move
+g1f3 c7c5 c2c4 g8f6 g2g3 g7g6 f1g2 b8c6 b1c3 f8g7                               : .......97 moves, avg. D18, 009 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 e7e6 g2g3 d7d5 c4d5 e6d5 d2d4                          : ....1 609 moves, avg. D40, 066 counts/move
+g1f3 c7c5 c2c4 g8f6 g2g3 g7g6 d2d4 f8g7 d4d5 d7d6                               : .......33 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 h2h3 c8b7 : ....1 189 moves, avg. D40, 068 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3 e7e6 f1e2 b8d7 c2c3 f7f6 e1g1 d8c7           : .......33 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 e2e3 b8d7 d1c2 f8d6                     : ...55 517 moves, avg. D41, 066 counts/move
+c2c4 c7c5 g1f3 g8f6 b1c3 e7e6 e2e4 b8c6 f1e2                                    : ......259 moves, avg. D33, 007 counts/move
+e2e4 c7c6 f1e2 d7d5 e4e5 c6c5 g1f3 e7e6 c2c3 d5d4                               : ......189 moves, avg. D25, 016 counts/move
+d2d4 g8f6 g1f3 e7e6 e2e3 b7b6 c2c4 c8b7 f1d3 d7d5                               : ....6 783 moves, avg. D32, 040 counts/move
+e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 a7a6 c1e3 b8c6                               : .......48 moves, avg. D01, 001 counts/move
+d2d4 g8f6 g1f3 e7e6 c2c3 c7c5 e2e3 d7d5 b1d2 b8d7                               : ......118 moves, avg. D23, 029 counts/move
+e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 g8f6 g1f3 b8c6                               : ......174 moves, avg. D24, 006 counts/move
+e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 d5e4 c3e4 f8e7                               : ......949 moves, avg. D36, 066 counts/move
+e2e4 c7c5 g1f3 d7d6 b1c3 e7e5 f1c4 f8e7 e1g1 b8c6                               : .......33 moves, avg. D01, 001 counts/move
+e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 d4c6 d8f6                               : ......154 moves, avg. D27, 008 counts/move
+e2e4 c7c5 g1f3 d7d6 f1b5 b8d7 e1g1 a7a6 b5d7 c8d7                               : .......26 moves, avg. D03, 003 counts/move
+d2d4 d7d5 c1f4 c7c5 e2e3 b8c6 g1f3 g8f6 b1d2 e7e6                               : ......577 moves, avg. D27, 012 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 g8f6 d2d3 d7d6 c2c3 e8g8 c1g5                : ..325 851 moves, avg. D41, 081 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 c1g5 h7h6 g5f6 d8f6 e2e3 b8d7 f1d3      : ....6 905 moves, avg. D40, 072 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 g8f6 d2d3 d7d6 c2c3 e8g8 h2h3                : ..300 298 moves, avg. D44, 049 counts/move
+d2d4 d7d5 e2e3 g8f6 g1f3 e7e6 b2b3 c7c5 c1b2 f8e7                               : ....1 263 moves, avg. D31, 018 counts/move
+g1f3 c7c5 c2c4 b8c6 e2e3 g8f6 d2d4 c5d4 e3d4 d7d5                               : ......199 moves, avg. D27, 016 counts/move
+e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 c2c3 e7e6 g1f3 c6c5                               : ......390 moves, avg. D29, 013 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 c1g5 h7h6 g5f6 d8f6 e2e3 b8d7 f1e2      : ...15 225 moves, avg. D47, 061 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5 a2a4 a7a5                               : ....4 215 moves, avg. D38, 047 counts/move
+d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 e2e3 f8e7 a2a3 e8g8                               : ......159 moves, avg. D26, 003 counts/move
+d2d4 g8f6 c2c4 g7g6 f2f3 c7c5 d4d5 f8g7 e2e4 d7d6                               : .......32 moves, avg. D01, 001 counts/move
+e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 f1e2 e7e6 e1g1                                    : .......40 moves, avg. D01, 001 counts/move
+d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 b1c3 e7e6 c1g5 h7h6 g5f6 d8f6                     : ...33 105 moves, avg. D47, 065 counts/move
+g1f3 c7c5 c2c4 g8f6 g2g3 d7d5 c4d5 f6d5 b1c3                                    : .......75 moves, avg. D13, 008 counts/move
+
+Experience Rate : 21%

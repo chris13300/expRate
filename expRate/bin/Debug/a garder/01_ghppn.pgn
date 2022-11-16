@@ -1,0 +1,210 @@
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "1"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A22"]
+[Annotator "0.35;0.24"]
+[PlyCount "34"]
+[TimeControl "900+10"]
+
+1. c4 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "3"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D43"]
+[Annotator "0.54;0.18"]
+[PlyCount "86"]
+[TimeControl "900+10"]
+
+1. d4 d5 2. c4 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "5"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D12"]
+[Annotator "0.44;0.34"]
+[PlyCount "99"]
+[TimeControl "900+10"]
+
+1. d4 d5 2. c4 c6 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "7"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D20"]
+[Annotator "0.54;0.48"]
+[PlyCount "66"]
+[TimeControl "900+10"]
+
+1. d4 d5 2. c4 dxc4 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "10"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "E08"]
+[Annotator "0.29;0.19"]
+[PlyCount "70"]
+[TimeControl "900+10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "12"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "E35"]
+[Annotator "0.12;0.09"]
+[PlyCount "38"]
+[TimeControl "900+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "14"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "E11"]
+[Annotator "0.49;0.55"]
+[PlyCount "114"]
+[TimeControl "900+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "16"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "E60"]
+[Annotator "0.24;0.18"]
+[PlyCount "38"]
+[TimeControl "900+10"]
+
+1. d4 Nf6 2. c4 g6 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.18"]
+[Round "18"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D90"]
+[Annotator "0.50;0.10"]
+[PlyCount "45"]
+[TimeControl "900+10"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.19"]
+[Round "19"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B96"]
+[Annotator "0.37;0.37"]
+[PlyCount "48"]
+[TimeControl "900+10"]
+
+1. e4 c5 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.19"]
+[Round "21"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B19"]
+[Annotator "0.54;0.35"]
+[PlyCount "68"]
+[TimeControl "900+10"]
+
+1. e4 c6 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.19"]
+[Round "23"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C67"]
+[Annotator "0.34;0.17"]
+[PlyCount "74"]
+[TimeControl "900+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.19"]
+[Round "25"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C54"]
+[Annotator "0.24;0.07"]
+[PlyCount "195"]
+[TimeControl "900+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.19"]
+[Round "27"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "0.40;0.21"]
+[PlyCount "70"]
+[TimeControl "900+10"]
+
+1. e4 e6 *
+
+[Event "OCF"]
+[Site "GHPPN"]
+[Date "2022.05.19"]
+[Round "30"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D39"]
+[Annotator "0.39;0.25"]
+[PlyCount "53"]
+[TimeControl "900+10"]
+
+1. Nf3 *
+

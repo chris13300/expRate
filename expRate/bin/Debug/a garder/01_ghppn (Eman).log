@@ -1,0 +1,17 @@
+﻿c2c4                          : 1 000 000 moves, avg. D30, 066 counts/move
+d2d4 d7d5 c2c4                : 1 000 000 moves, avg. D32, 075 counts/move
+d2d4 d7d5 c2c4 c7c6           : 1 000 000 moves, avg. D35, 082 counts/move
+d2d4 d7d5 c2c4 d5c4           : ..257 068 moves, avg. D63, 100 counts/move
+d2d4 g8f6 c2c4 e7e6 g2g3      : ..604 637 moves, avg. D35, 074 counts/move
+d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 : ...55 934 moves, avg. D18, 103 counts/move
+d2d4 g8f6 c2c4 e7e6 g1f3 f8b4 : 1 000 000 moves, avg. D36, 081 counts/move
+d2d4 g8f6 c2c4 g7g6           : 1 000 000 moves, avg. D32, 093 counts/move
+d2d4 g8f6 c2c4 g7g6 b1c3 d7d5 : ..146 199 moves, avg. D137, 105 counts/move
+e2e4 c7c5                     : 1 000 000 moves, avg. D35, 068 counts/move
+e2e4 c7c6                     : 1 000 000 moves, avg. D31, 087 counts/move
+e2e4 e7e5 g1f3 b8c6 f1b5      : 1 000 000 moves, avg. D30, 098 counts/move
+e2e4 e7e5 g1f3 b8c6 f1c4      : 1 000 000 moves, avg. D31, 081 counts/move
+e2e4 e7e6                     : 1 000 000 moves, avg. D32, 082 counts/move
+g1f3                          : 1 000 000 moves, avg. D30, 068 counts/move
+
+Experience Rate : 100%

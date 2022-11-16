@@ -1,0 +1,402 @@
+﻿a2a3 a7a5 : ......355 moves, avg. D24, 112 counts/move
+a2a3 a7a6 : ......302 moves, avg. D31, 111 counts/move
+a2a3 b7b5 : ......360 moves, avg. D27, 114 counts/move
+a2a3 b7b6 : ......213 moves, avg. D29, 112 counts/move
+a2a3 c7c5 : ...42 164 moves, avg. D07, 121 counts/move
+a2a3 c7c6 : ......261 moves, avg. D26, 110 counts/move
+a2a3 b8a6 : ......376 moves, avg. D23, 110 counts/move
+a2a3 b8c6 : ......154 moves, avg. D27, 123 counts/move
+a2a3 g8f6 : ....8 436 moves, avg. D30, 102 counts/move
+a2a3 g8h6 : ......203 moves, avg. D28, 106 counts/move
+a2a3 d7d5 : ...18 939 moves, avg. D09, 113 counts/move
+a2a3 d7d6 : ......166 moves, avg. D35, 105 counts/move
+a2a3 e7e5 : ...26 457 moves, avg. D07, 115 counts/move
+a2a3 e7e6 : ......645 moves, avg. D41, 116 counts/move
+a2a3 f7f5 : ......185 moves, avg. D24, 103 counts/move
+a2a3 f7f6 : ......575 moves, avg. D25, 112 counts/move
+a2a3 g7g5 : ......724 moves, avg. D23, 113 counts/move
+a2a3 g7g6 : ....4 401 moves, avg. D13, 120 counts/move
+a2a3 h7h5 : ......611 moves, avg. D27, 117 counts/move
+a2a3 h7h6 : ......215 moves, avg. D29, 105 counts/move
+a2a4 a7a5 : ......181 moves, avg. D23, 102 counts/move
+a2a4 a7a6 : ......210 moves, avg. D21, 095 counts/move
+a2a4 b7b5 : ....4 499 moves, avg. D24, 118 counts/move
+a2a4 b7b6 : ......151 moves, avg. D21, 091 counts/move
+a2a4 c7c5 : ......454 moves, avg. D30, 113 counts/move
+a2a4 c7c6 : ......305 moves, avg. D30, 110 counts/move
+a2a4 b8a6 : ......179 moves, avg. D25, 105 counts/move
+a2a4 b8c6 : ....1 297 moves, avg. D30, 110 counts/move
+a2a4 g8f6 : ...30 150 moves, avg. D07, 120 counts/move
+a2a4 g8h6 : ......189 moves, avg. D22, 101 counts/move
+a2a4 d7d5 : ...15 440 moves, avg. D11, 121 counts/move
+a2a4 d7d6 : ......245 moves, avg. D27, 107 counts/move
+a2a4 e7e5 : ....3 031 moves, avg. D10, 114 counts/move
+a2a4 e7e6 : ......151 moves, avg. D32, 102 counts/move
+a2a4 f7f5 : ......240 moves, avg. D27, 107 counts/move
+a2a4 f7f6 : ......204 moves, avg. D20, 097 counts/move
+a2a4 g7g5 : ......205 moves, avg. D22, 109 counts/move
+a2a4 g7g6 : ......238 moves, avg. D29, 108 counts/move
+a2a4 h7h5 : ......234 moves, avg. D26, 108 counts/move
+a2a4 h7h6 : ......192 moves, avg. D28, 100 counts/move
+b2b3 a7a5 : ......188 moves, avg. D27, 103 counts/move
+b2b3 a7a6 : ......169 moves, avg. D29, 105 counts/move
+b2b3 b7b5 : ......179 moves, avg. D27, 104 counts/move
+b2b3 b7b6 : ......648 moves, avg. D32, 106 counts/move
+b2b3 c7c5 : ....9 996 moves, avg. D36, 102 counts/move
+b2b3 c7c6 : ......267 moves, avg. D24, 107 counts/move
+b2b3 b8a6 : ......151 moves, avg. D25, 123 counts/move
+b2b3 b8c6 : ....5 785 moves, avg. D10, 105 counts/move
+b2b3 g8f6 : ...14 617 moves, avg. D20, 110 counts/move
+b2b3 g8h6 : ......334 moves, avg. D24, 113 counts/move
+b2b3 d7d5 : ...13 583 moves, avg. D20, 107 counts/move
+b2b3 d7d6 : ......815 moves, avg. D35, 102 counts/move
+b2b3 e7e5 : ....8 331 moves, avg. D12, 107 counts/move
+b2b3 e7e6 : ....8 627 moves, avg. D12, 116 counts/move
+b2b3 f7f5 : ......216 moves, avg. D26, 105 counts/move
+b2b3 f7f6 : ......227 moves, avg. D22, 107 counts/move
+b2b3 g7g5 : ......188 moves, avg. D24, 105 counts/move
+b2b3 g7g6 : ....3 955 moves, avg. D29, 101 counts/move
+b2b3 h7h5 : ......191 moves, avg. D23, 090 counts/move
+b2b3 h7h6 : ......171 moves, avg. D34, 106 counts/move
+b2b4 a7a5 : ......182 moves, avg. D33, 105 counts/move
+b2b4 a7a6 : ......354 moves, avg. D34, 114 counts/move
+b2b4 b7b5 : ......172 moves, avg. D28, 104 counts/move
+b2b4 b7b6 : ......187 moves, avg. D31, 102 counts/move
+b2b4 c7c5 : ......234 moves, avg. D29, 110 counts/move
+b2b4 c7c6 : ......216 moves, avg. D25, 098 counts/move
+b2b4 b8a6 : ......180 moves, avg. D30, 109 counts/move
+b2b4 b8c6 : ......178 moves, avg. D24, 107 counts/move
+b2b4 g8f6 : ....5 337 moves, avg. D11, 119 counts/move
+b2b4 g8h6 : ......286 moves, avg. D25, 112 counts/move
+b2b4 d7d5 : ...23 523 moves, avg. D08, 114 counts/move
+b2b4 d7d6 : ....1 182 moves, avg. D33, 120 counts/move
+b2b4 e7e5 : ...25 436 moves, avg. D08, 114 counts/move
+b2b4 e7e6 : ......222 moves, avg. D37, 099 counts/move
+b2b4 f7f5 : ......251 moves, avg. D26, 108 counts/move
+b2b4 f7f6 : ......187 moves, avg. D26, 100 counts/move
+b2b4 g7g5 : ......154 moves, avg. D26, 123 counts/move
+b2b4 g7g6 : ......301 moves, avg. D27, 109 counts/move
+b2b4 h7h5 : ......261 moves, avg. D35, 110 counts/move
+b2b4 h7h6 : ......208 moves, avg. D25, 103 counts/move
+c2c3 a7a5 : ......187 moves, avg. D22, 102 counts/move
+c2c3 a7a6 : ......166 moves, avg. D25, 095 counts/move
+c2c3 b7b5 : ......335 moves, avg. D25, 110 counts/move
+c2c3 b7b6 : ......293 moves, avg. D36, 110 counts/move
+c2c3 c7c5 : ...61 717 moves, avg. D32, 095 counts/move
+c2c3 c7c6 : ......184 moves, avg. D24, 101 counts/move
+c2c3 b8a6 : ......202 moves, avg. D24, 100 counts/move
+c2c3 b8c6 : ......232 moves, avg. D27, 104 counts/move
+c2c3 g8f6 : ..414 589 moves, avg. D17, 119 counts/move
+c2c3 g8h6 : ......190 moves, avg. D21, 102 counts/move
+c2c3 d7d5 : ..114 285 moves, avg. D07, 122 counts/move
+c2c3 d7d6 : ......390 moves, avg. D30, 111 counts/move
+c2c3 e7e5 : ......383 moves, avg. D34, 103 counts/move
+c2c3 e7e6 : ..273 296 moves, avg. D18, 116 counts/move
+c2c3 f7f5 : ......376 moves, avg. D31, 105 counts/move
+c2c3 f7f6 : ......192 moves, avg. D20, 100 counts/move
+c2c3 g7g5 : ......155 moves, avg. D24, 122 counts/move
+c2c3 g7g6 : ......257 moves, avg. D28, 098 counts/move
+c2c3 h7h5 : ......344 moves, avg. D28, 110 counts/move
+c2c3 h7h6 : ......290 moves, avg. D28, 123 counts/move
+c2c4 a7a5 : ......188 moves, avg. D23, 105 counts/move
+c2c4 a7a6 : ....1 182 moves, avg. D46, 118 counts/move
+c2c4 b7b5 : ......422 moves, avg. D25, 116 counts/move
+c2c4 b7b6 : ..338 204 moves, avg. D30, 097 counts/move
+c2c4 c7c5 : 1 000 000 moves, avg. D37, 082 counts/move
+c2c4 c7c6 : 1 000 000 moves, avg. D32, 079 counts/move
+c2c4 b8a6 : ......351 moves, avg. D26, 110 counts/move
+c2c4 b8c6 : ...54 760 moves, avg. D15, 108 counts/move
+c2c4 g8f6 : 1 000 000 moves, avg. D32, 070 counts/move
+c2c4 g8h6 : ......186 moves, avg. D23, 105 counts/move
+c2c4 d7d5 : 1 000 000 moves, avg. D32, 074 counts/move
+c2c4 d7d6 : 1 000 000 moves, avg. D35, 085 counts/move
+c2c4 e7e5 : ..282 215 moves, avg. D13, 107 counts/move
+c2c4 e7e6 : 1 000 000 moves, avg. D33, 070 counts/move
+c2c4 f7f5 : 1 000 000 moves, avg. D36, 092 counts/move
+c2c4 f7f6 : ....1 311 moves, avg. D26, 115 counts/move
+c2c4 g7g5 : ....1 299 moves, avg. D24, 107 counts/move
+c2c4 g7g6 : 1 000 000 moves, avg. D37, 082 counts/move
+c2c4 h7h5 : ......216 moves, avg. D21, 104 counts/move
+c2c4 h7h6 : ......203 moves, avg. D33, 106 counts/move
+b1a3 a7a5 : ......162 moves, avg. D26, 099 counts/move
+b1a3 a7a6 : ......204 moves, avg. D29, 105 counts/move
+b1a3 b7b5 : ....4 317 moves, avg. D26, 118 counts/move
+b1a3 b7b6 : ......329 moves, avg. D26, 112 counts/move
+b1a3 c7c5 : ......159 moves, avg. D31, 093 counts/move
+b1a3 c7c6 : ......155 moves, avg. D35, 122 counts/move
+b1a3 b8a6 : ......173 moves, avg. D39, 122 counts/move
+b1a3 b8c6 : ......326 moves, avg. D28, 107 counts/move
+b1a3 g8f6 : ......328 moves, avg. D33, 112 counts/move
+b1a3 g8h6 : ......187 moves, avg. D23, 103 counts/move
+b1a3 d7d5 : ......514 moves, avg. D32, 115 counts/move
+b1a3 d7d6 : ......186 moves, avg. D22, 104 counts/move
+b1a3 e7e5 : ...21 993 moves, avg. D07, 117 counts/move
+b1a3 e7e6 : ......230 moves, avg. D33, 109 counts/move
+b1a3 f7f5 : ......184 moves, avg. D25, 105 counts/move
+b1a3 f7f6 : ......220 moves, avg. D27, 107 counts/move
+b1a3 g7g5 : ......548 moves, avg. D22, 113 counts/move
+b1a3 g7g6 : ......187 moves, avg. D26, 102 counts/move
+b1a3 h7h5 : ......183 moves, avg. D27, 104 counts/move
+b1a3 h7h6 : ......193 moves, avg. D26, 105 counts/move
+b1c3 a7a5 : ......761 moves, avg. D24, 115 counts/move
+b1c3 a7a6 : ......809 moves, avg. D31, 117 counts/move
+b1c3 b7b5 : ....4 317 moves, avg. D26, 118 counts/move
+b1c3 b7b6 : ......845 moves, avg. D28, 111 counts/move
+b1c3 c7c5 : 1 000 000 moves, avg. D34, 074 counts/move
+b1c3 c7c6 : 1 000 000 moves, avg. D29, 087 counts/move
+b1c3 b8a6 : ......542 moves, avg. D24, 115 counts/move
+b1c3 b8c6 : ...79 779 moves, avg. D32, 097 counts/move
+b1c3 g8f6 : 1 000 000 moves, avg. D33, 087 counts/move
+b1c3 g8h6 : ....2 782 moves, avg. D25, 118 counts/move
+b1c3 d7d5 : 1 000 000 moves, avg. D30, 087 counts/move
+b1c3 d7d6 : 1 000 000 moves, avg. D34, 081 counts/move
+b1c3 e7e5 : ..581 784 moves, avg. D30, 098 counts/move
+b1c3 e7e6 : 1 000 000 moves, avg. D31, 086 counts/move
+b1c3 f7f5 : ......260 moves, avg. D23, 100 counts/move
+b1c3 f7f6 : ......648 moves, avg. D22, 112 counts/move
+b1c3 g7g5 : ....1 802 moves, avg. D23, 118 counts/move
+b1c3 g7g6 : 1 000 000 moves, avg. D36, 081 counts/move
+b1c3 h7h5 : ......189 moves, avg. D22, 102 counts/move
+b1c3 h7h6 : ......322 moves, avg. D26, 110 counts/move
+g1f3 a7a5 : ......716 moves, avg. D24, 115 counts/move
+g1f3 a7a6 : 1 000 000 moves, avg. D32, 093 counts/move
+g1f3 b7b5 : ......182 moves, avg. D22, 104 counts/move
+g1f3 b7b6 : ..180 500 moves, avg. D30, 094 counts/move
+g1f3 c7c5 : 1 000 000 moves, avg. D34, 071 counts/move
+g1f3 c7c6 : 1 000 000 moves, avg. D32, 084 counts/move
+g1f3 b8a6 : ......312 moves, avg. D23, 111 counts/move
+g1f3 b8c6 : 1 000 000 moves, avg. D31, 079 counts/move
+g1f3 g8f6 : 1 000 000 moves, avg. D33, 076 counts/move
+g1f3 g8h6 : ....2 901 moves, avg. D25, 118 counts/move
+g1f3 d7d5 : 1 000 000 moves, avg. D32, 077 counts/move
+g1f3 d7d6 : 1 000 000 moves, avg. D34, 078 counts/move
+g1f3 e7e5 : ......514 moves, avg. D24, 113 counts/move
+g1f3 e7e6 : 1 000 000 moves, avg. D34, 074 counts/move
+g1f3 f7f5 : 1 000 000 moves, avg. D36, 093 counts/move
+g1f3 f7f6 : ......682 moves, avg. D23, 114 counts/move
+g1f3 g7g5 : ....1 574 moves, avg. D24, 118 counts/move
+g1f3 g7g6 : 1 000 000 moves, avg. D34, 080 counts/move
+g1f3 h7h5 : ....2 275 moves, avg. D26, 118 counts/move
+g1f3 h7h6 : ......406 moves, avg. D24, 114 counts/move
+g1h3 a7a5 : ......141 moves, avg. D29, 104 counts/move
+g1h3 a7a6 : ......191 moves, avg. D27, 109 counts/move
+g1h3 b7b5 : ......151 moves, avg. D25, 123 counts/move
+g1h3 b7b6 : ......213 moves, avg. D29, 109 counts/move
+g1h3 c7c5 : ......242 moves, avg. D26, 104 counts/move
+g1h3 c7c6 : ......244 moves, avg. D26, 108 counts/move
+g1h3 b8a6 : ......198 moves, avg. D24, 099 counts/move
+g1h3 b8c6 : ......153 moves, avg. D27, 123 counts/move
+g1h3 g8f6 : ....2 142 moves, avg. D28, 116 counts/move
+g1h3 g8h6 : ......178 moves, avg. D26, 108 counts/move
+g1h3 d7d5 : ...42 484 moves, avg. D19, 115 counts/move
+g1h3 d7d6 : ......191 moves, avg. D24, 107 counts/move
+g1h3 e7e5 : ....3 046 moves, avg. D11, 118 counts/move
+g1h3 e7e6 : ......174 moves, avg. D30, 104 counts/move
+g1h3 f7f5 : ......354 moves, avg. D25, 112 counts/move
+g1h3 f7f6 : ......584 moves, avg. D27, 117 counts/move
+g1h3 g7g5 : ....1 574 moves, avg. D24, 118 counts/move
+g1h3 g7g6 : ......181 moves, avg. D25, 107 counts/move
+g1h3 h7h5 : ......150 moves, avg. D28, 104 counts/move
+g1h3 h7h6 : ......161 moves, avg. D34, 104 counts/move
+d2d3 a7a5 : ......155 moves, avg. D25, 123 counts/move
+d2d3 a7a6 : ......156 moves, avg. D31, 122 counts/move
+d2d3 b7b5 : ......174 moves, avg. D25, 100 counts/move
+d2d3 b7b6 : ......213 moves, avg. D26, 104 counts/move
+d2d3 c7c5 : ...16 993 moves, avg. D47, 095 counts/move
+d2d3 c7c6 : ......571 moves, avg. D32, 095 counts/move
+d2d3 b8a6 : ......276 moves, avg. D23, 108 counts/move
+d2d3 b8c6 : ......378 moves, avg. D30, 113 counts/move
+d2d3 g8f6 : ...45 151 moves, avg. D08, 119 counts/move
+d2d3 g8h6 : ......191 moves, avg. D27, 101 counts/move
+d2d3 d7d5 : ..115 182 moves, avg. D12, 118 counts/move
+d2d3 d7d6 : ......225 moves, avg. D22, 105 counts/move
+d2d3 e7e5 : ...53 215 moves, avg. D08, 119 counts/move
+d2d3 e7e6 : ....1 179 moves, avg. D36, 102 counts/move
+d2d3 f7f5 : ......545 moves, avg. D32, 103 counts/move
+d2d3 f7f6 : ......224 moves, avg. D29, 098 counts/move
+d2d3 g7g5 : ......449 moves, avg. D22, 111 counts/move
+d2d3 g7g6 : ......321 moves, avg. D28, 109 counts/move
+d2d3 h7h5 : ......242 moves, avg. D32, 122 counts/move
+d2d3 h7h6 : ......247 moves, avg. D27, 105 counts/move
+d2d4 a7a5 : ....1 109 moves, avg. D26, 116 counts/move
+d2d4 a7a6 : ....1 243 moves, avg. D30, 117 counts/move
+d2d4 b7b5 : ......270 moves, avg. D23, 108 counts/move
+d2d4 b7b6 : ..238 292 moves, avg. D29, 096 counts/move
+d2d4 c7c5 : 1 000 000 moves, avg. D33, 075 counts/move
+d2d4 c7c6 : 1 000 000 moves, avg. D32, 082 counts/move
+d2d4 b8a6 : ......879 moves, avg. D25, 116 counts/move
+d2d4 b8c6 : ...42 170 moves, avg. D35, 096 counts/move
+d2d4 g8f6 : 1 000 000 moves, avg. D33, 073 counts/move
+d2d4 g8h6 : ....2 704 moves, avg. D25, 118 counts/move
+d2d4 d7d5 : 1 000 000 moves, avg. D33, 071 counts/move
+d2d4 d7d6 : 1 000 000 moves, avg. D37, 081 counts/move
+d2d4 e7e5 : ..105 594 moves, avg. D36, 089 counts/move
+d2d4 e7e6 : 1 000 000 moves, avg. D33, 073 counts/move
+d2d4 f7f5 : 1 000 000 moves, avg. D35, 088 counts/move
+d2d4 f7f6 : ......729 moves, avg. D23, 114 counts/move
+d2d4 g7g5 : ......821 moves, avg. D21, 117 counts/move
+d2d4 g7g6 : 1 000 000 moves, avg. D37, 081 counts/move
+d2d4 h7h5 : ...16 876 moves, avg. D30, 088 counts/move
+d2d4 h7h6 : ....1 196 moves, avg. D27, 116 counts/move
+e2e3 a7a5 : ......265 moves, avg. D30, 107 counts/move
+e2e3 a7a6 : ......196 moves, avg. D28, 103 counts/move
+e2e3 b7b5 : ......512 moves, avg. D22, 114 counts/move
+e2e3 b7b6 : ......306 moves, avg. D26, 104 counts/move
+e2e3 c7c5 : ...73 937 moves, avg. D37, 108 counts/move
+e2e3 c7c6 : 1 000 000 moves, avg. D90, 092 counts/move
+e2e3 b8a6 : ......202 moves, avg. D33, 102 counts/move
+e2e3 b8c6 : ......194 moves, avg. D23, 099 counts/move
+e2e3 g8f6 : 1 000 000 moves, avg. D52, 087 counts/move
+e2e3 g8h6 : ......191 moves, avg. D25, 100 counts/move
+e2e3 d7d5 : 1 000 000 moves, avg. D31, 089 counts/move
+e2e3 d7d6 : ......352 moves, avg. D31, 100 counts/move
+e2e3 e7e5 : ...11 744 moves, avg. D38, 088 counts/move
+e2e3 e7e6 : 1 000 000 moves, avg. D34, 085 counts/move
+e2e3 f7f5 : ......301 moves, avg. D24, 108 counts/move
+e2e3 f7f6 : ......201 moves, avg. D19, 092 counts/move
+e2e3 g7g5 : ......576 moves, avg. D22, 114 counts/move
+e2e3 g7g6 : ....1 677 moves, avg. D34, 104 counts/move
+e2e3 h7h5 : ......192 moves, avg. D23, 100 counts/move
+e2e3 h7h6 : ......192 moves, avg. D24, 102 counts/move
+e2e4 a7a5 : ....2 526 moves, avg. D25, 118 counts/move
+e2e4 a7a6 : 1 000 000 moves, avg. D31, 088 counts/move
+e2e4 b7b5 : ......537 moves, avg. D22, 115 counts/move
+e2e4 b7b6 : ....3 616 moves, avg. D29, 110 counts/move
+e2e4 c7c5 : 1 000 000 moves, avg. D35, 068 counts/move
+e2e4 c7c6 : 1 000 000 moves, avg. D31, 087 counts/move
+e2e4 b8a6 : ....1 667 moves, avg. D25, 119 counts/move
+e2e4 b8c6 : 1 000 000 moves, avg. D31, 079 counts/move
+e2e4 g8f6 : 1 000 000 moves, avg. D33, 087 counts/move
+e2e4 g8h6 : ....8 162 moves, avg. D25, 119 counts/move
+e2e4 d7d5 : 1 000 000 moves, avg. D32, 087 counts/move
+e2e4 d7d6 : 1 000 000 moves, avg. D37, 076 counts/move
+e2e4 e7e5 : 1 000 000 moves, avg. D32, 076 counts/move
+e2e4 e7e6 : 1 000 000 moves, avg. D32, 082 counts/move
+e2e4 f7f5 : ....1 024 moves, avg. D23, 118 counts/move
+e2e4 f7f6 : ......729 moves, avg. D23, 114 counts/move
+e2e4 g7g5 : ....2 023 moves, avg. D23, 118 counts/move
+e2e4 g7g6 : 1 000 000 moves, avg. D37, 079 counts/move
+e2e4 h7h5 : ...19 106 moves, avg. D29, 092 counts/move
+e2e4 h7h6 : ....1 021 moves, avg. D25, 115 counts/move
+f2f3 a7a5 : ......330 moves, avg. D25, 112 counts/move
+f2f3 a7a6 : ......155 moves, avg. D33, 122 counts/move
+f2f3 b7b5 : ......261 moves, avg. D32, 109 counts/move
+f2f3 b7b6 : ......341 moves, avg. D42, 112 counts/move
+f2f3 c7c5 : ......161 moves, avg. D26, 122 counts/move
+f2f3 c7c6 : ..530 606 moves, avg. D38, 101 counts/move
+f2f3 b8a6 : ......416 moves, avg. D28, 114 counts/move
+f2f3 b8c6 : ......294 moves, avg. D26, 123 counts/move
+f2f3 g8f6 : ....2 943 moves, avg. D09, 121 counts/move
+f2f3 g8h6 : ......183 moves, avg. D21, 105 counts/move
+f2f3 d7d5 : ......360 moves, avg. D27, 109 counts/move
+f2f3 d7d6 : ..710 797 moves, avg. D28, 102 counts/move
+f2f3 e7e5 : ..208 201 moves, avg. D06, 121 counts/move
+f2f3 e7e6 : ......278 moves, avg. D25, 113 counts/move
+f2f3 f7f5 : ......294 moves, avg. D29, 110 counts/move
+f2f3 f7f6 : ......484 moves, avg. D25, 116 counts/move
+f2f3 g7g5 : ....2 659 moves, avg. D24, 119 counts/move
+f2f3 g7g6 : ......457 moves, avg. D34, 115 counts/move
+f2f3 h7h5 : ......320 moves, avg. D31, 108 counts/move
+f2f3 h7h6 : .......86 moves, avg. D25, 090 counts/move
+f2f4 a7a5 : ......337 moves, avg. D32, 108 counts/move
+f2f4 a7a6 : ......205 moves, avg. D25, 103 counts/move
+f2f4 b7b5 : ......155 moves, avg. D27, 101 counts/move
+f2f4 b7b6 : ......246 moves, avg. D32, 102 counts/move
+f2f4 c7c5 : ....6 829 moves, avg. D36, 101 counts/move
+f2f4 c7c6 : ......252 moves, avg. D29, 109 counts/move
+f2f4 b8a6 : ......186 moves, avg. D22, 102 counts/move
+f2f4 b8c6 : ......827 moves, avg. D33, 114 counts/move
+f2f4 g8f6 : ...36 169 moves, avg. D11, 120 counts/move
+f2f4 g8h6 : ......223 moves, avg. D25, 105 counts/move
+f2f4 d7d5 : ...28 377 moves, avg. D16, 116 counts/move
+f2f4 d7d6 : ....2 789 moves, avg. D37, 094 counts/move
+f2f4 e7e5 : ....2 443 moves, avg. D34, 095 counts/move
+f2f4 e7e6 : ....1 137 moves, avg. D33, 109 counts/move
+f2f4 f7f5 : ......315 moves, avg. D40, 109 counts/move
+f2f4 f7f6 : ......153 moves, avg. D25, 123 counts/move
+f2f4 g7g5 : ......528 moves, avg. D22, 116 counts/move
+f2f4 g7g6 : ...10 586 moves, avg. D28, 106 counts/move
+f2f4 h7h5 : ......155 moves, avg. D28, 122 counts/move
+f2f4 h7h6 : ......302 moves, avg. D23, 107 counts/move
+g2g3 a7a5 : ......192 moves, avg. D27, 101 counts/move
+g2g3 a7a6 : ......194 moves, avg. D25, 100 counts/move
+g2g3 b7b5 : ......189 moves, avg. D27, 103 counts/move
+g2g3 b7b6 : ......290 moves, avg. D30, 112 counts/move
+g2g3 c7c5 : 1 000 000 moves, avg. D38, 081 counts/move
+g2g3 c7c6 : ...15 947 moves, avg. D23, 105 counts/move
+g2g3 b8a6 : ......182 moves, avg. D25, 104 counts/move
+g2g3 b8c6 : ...17 115 moves, avg. D24, 094 counts/move
+g2g3 g8f6 : 1 000 000 moves, avg. D30, 074 counts/move
+g2g3 g8h6 : ......209 moves, avg. D26, 108 counts/move
+g2g3 d7d5 : 1 000 000 moves, avg. D26, 091 counts/move
+g2g3 d7d6 : ......362 moves, avg. D28, 101 counts/move
+g2g3 e7e5 : ..141 715 moves, avg. D14, 101 counts/move
+g2g3 e7e6 : 1 000 000 moves, avg. D32, 071 counts/move
+g2g3 f7f5 : 1 000 000 moves, avg. D35, 092 counts/move
+g2g3 f7f6 : ......704 moves, avg. D24, 116 counts/move
+g2g3 g7g5 : ......673 moves, avg. D25, 111 counts/move
+g2g3 g7g6 : 1 000 000 moves, avg. D34, 086 counts/move
+g2g3 h7h5 : ......493 moves, avg. D31, 116 counts/move
+g2g3 h7h6 : ......183 moves, avg. D28, 105 counts/move
+g2g4 a7a5 : ......181 moves, avg. D30, 106 counts/move
+g2g4 a7a6 : ......305 moves, avg. D27, 113 counts/move
+g2g4 b7b5 : ......123 moves, avg. D38, 119 counts/move
+g2g4 b7b6 : ......238 moves, avg. D25, 105 counts/move
+g2g4 c7c5 : ......215 moves, avg. D23, 107 counts/move
+g2g4 c7c6 : ......522 moves, avg. D34, 123 counts/move
+g2g4 b8a6 : ......183 moves, avg. D25, 107 counts/move
+g2g4 b8c6 : ......316 moves, avg. D26, 104 counts/move
+g2g4 g8f6 : ......331 moves, avg. D30, 113 counts/move
+g2g4 g8h6 : ......173 moves, avg. D25, 093 counts/move
+g2g4 d7d5 : 1 000 000 moves, avg. D22, 103 counts/move
+g2g4 d7d6 : ......180 moves, avg. D24, 106 counts/move
+g2g4 e7e5 : ..232 151 moves, avg. D26, 101 counts/move
+g2g4 e7e6 : ......368 moves, avg. D30, 104 counts/move
+g2g4 f7f5 : ......204 moves, avg. D24, 103 counts/move
+g2g4 f7f6 : .......85 moves, avg. D45, 116 counts/move
+g2g4 g7g5 : ......300 moves, avg. D35, 113 counts/move
+g2g4 g7g6 : ......198 moves, avg. D26, 102 counts/move
+g2g4 h7h5 : ......203 moves, avg. D29, 106 counts/move
+g2g4 h7h6 : ......153 moves, avg. D30, 123 counts/move
+h2h3 a7a5 : ......422 moves, avg. D28, 110 counts/move
+h2h3 a7a6 : ......202 moves, avg. D25, 101 counts/move
+h2h3 b7b5 : ......182 moves, avg. D25, 106 counts/move
+h2h3 b7b6 : ......612 moves, avg. D27, 116 counts/move
+h2h3 c7c5 : ......645 moves, avg. D30, 111 counts/move
+h2h3 c7c6 : ......187 moves, avg. D29, 104 counts/move
+h2h3 b8a6 : ......204 moves, avg. D24, 103 counts/move
+h2h3 b8c6 : ......204 moves, avg. D27, 106 counts/move
+h2h3 g8f6 : ....1 508 moves, avg. D32, 113 counts/move
+h2h3 g8h6 : ......310 moves, avg. D24, 121 counts/move
+h2h3 d7d5 : ....1 827 moves, avg. D32, 114 counts/move
+h2h3 d7d6 : ......185 moves, avg. D28, 104 counts/move
+h2h3 e7e5 : ...39 864 moves, avg. D12, 118 counts/move
+h2h3 e7e6 : ......390 moves, avg. D34, 109 counts/move
+h2h3 f7f5 : ......341 moves, avg. D32, 110 counts/move
+h2h3 f7f6 : ......451 moves, avg. D23, 114 counts/move
+h2h3 g7g5 : ......428 moves, avg. D22, 107 counts/move
+h2h3 g7g6 : ......198 moves, avg. D29, 105 counts/move
+h2h3 h7h5 : ......152 moves, avg. D26, 123 counts/move
+h2h3 h7h6 : ......157 moves, avg. D31, 122 counts/move
+h2h4 a7a5 : ......154 moves, avg. D32, 123 counts/move
+h2h4 a7a6 : ......167 moves, avg. D34, 121 counts/move
+h2h4 b7b5 : ......491 moves, avg. D27, 112 counts/move
+h2h4 b7b6 : ......186 moves, avg. D22, 102 counts/move
+h2h4 c7c5 : ......197 moves, avg. D29, 105 counts/move
+h2h4 c7c6 : ......332 moves, avg. D39, 114 counts/move
+h2h4 b8a6 : ......183 moves, avg. D26, 122 counts/move
+h2h4 b8c6 : ......150 moves, avg. D34, 123 counts/move
+h2h4 g8f6 : ......184 moves, avg. D23, 096 counts/move
+h2h4 g8h6 : ......302 moves, avg. D24, 123 counts/move
+h2h4 d7d5 : ....4 914 moves, avg. D14, 108 counts/move
+h2h4 d7d6 : ......120 moves, avg. D30, 117 counts/move
+h2h4 e7e5 : ...25 058 moves, avg. D07, 120 counts/move
+h2h4 e7e6 : ......221 moves, avg. D27, 102 counts/move
+h2h4 f7f5 : ......214 moves, avg. D21, 095 counts/move
+h2h4 f7f6 : ......199 moves, avg. D20, 106 counts/move
+h2h4 g7g5 : ......495 moves, avg. D23, 113 counts/move
+h2h4 g7g6 : ......281 moves, avg. D25, 111 counts/move
+h2h4 h7h5 : ......222 moves, avg. D27, 107 counts/move
+h2h4 h7h6 : ......178 moves, avg. D26, 103 counts/move
+
+Experience Rate : 36%

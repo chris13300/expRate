@@ -1,0 +1,638 @@
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "French Winawer"]
+[Black "?"]
+[Result "*"]
+[ECO "C15"]
+[PlyCount "12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 Nc6 5. a3 Ba5 6. e5 Nge7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Ruy Lopez Berlin"]
+[Black "?"]
+[Result "*"]
+[ECO "C26"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7 6. Re1 O-O 7. c3 Nd7 8. d4
+Bf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Benoni"]
+[Black "?"]
+[Result "*"]
+[ECO "E90"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 g6 6. e4 Bg7 7. h3 O-O 8. Bd3 Na6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Petroff Cochrane gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C63"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "English Anti-Grünfeld"]
+[Black "?"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "10"]
+
+1. c4 Nf6 2. Nc3 g6 3. Nf3 d5 4. cxd5 Nxd5 5. h4 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Sicilian Najdorf"]
+[Black "?"]
+[Result "*"]
+[ECO "B41"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. Qf3
+Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "French Classical"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[PlyCount "19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. a3 O-O 9. Qd2 b6 10. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Modern"]
+[Black "?"]
+[Result "*"]
+[ECO "A42"]
+[PlyCount "16"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. h4 h5 7. f3 Nf6 8. O-O-O
+Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Irregular"]
+[Black "?"]
+[Result "*"]
+[ECO "A40"]
+[PlyCount "10"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 b6 5. Nc3 Bb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Owen's Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "A30"]
+[PlyCount "11"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. c3 Nf6 6. Qe2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "King's Indian 3. f3"]
+[Black "?"]
+[Result "*"]
+[ECO "E60"]
+[PlyCount "6"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Nh5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Pirc Pribyl"]
+[Black "?"]
+[Result "*"]
+[ECO "B06"]
+[PlyCount "6"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Scandinavian"]
+[Black "?"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "16"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8.
+Be3 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Dutch Korchnoi gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "A44"]
+[PlyCount "8"]
+
+1. d4 f5 2. h3 Nf6 3. g4 fxg4 4. hxg4 Nxg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "QGD Cambridge Springs"]
+[Black "?"]
+[Result "*"]
+[ECO "D52"]
+[PlyCount "16"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 exd5 8.
+Bd3 Bd6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "King's Indian Mar del Plata"]
+[Black "?"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Ne8 10. Be3 f5 11. f3 Nf6 12. a4 f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Sicilian Taimanov"]
+[Black "?"]
+[Result "*"]
+[ECO "B44"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. c4 a6 7. N5c3 Nf6 8. Be2
+Be7 9. O-O O-O 10. Na3 b6 11. Be3 Bd7 12. Rc1 Qb8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "King's Indian Sämisch"]
+[Black "?"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 a6 8. O-O-O
+b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Benoni"]
+[Black "?"]
+[Result "*"]
+[ECO "A65"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nge2 Bg7 8. Ng3
+O-O 9. Be2 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Queen's Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E11"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. e4 cxd4 8. Nxd4
+d6 9. Be2 Be7 10. Be3 O-O 11. O-O-O Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "French Advance"]
+[Black "?"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "10"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Ne7 5. Nf3 Nec6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "French Classical"]
+[Black "?"]
+[Result "*"]
+[ECO "C16"]
+[PlyCount "18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6
+8. Na4 Qa5+ 9. c3 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Caro-Kann Advance"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Bb4+ 6. Nbd2 Nd7 7. O-O Ba5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "King's Indian Sämisch"]
+[Black "?"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+Qh4+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Ruy Lopez Schliemann"]
+[Black "?"]
+[Result "*"]
+[ECO "C63"]
+[PlyCount "10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 Nf6 5. exf5 Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Dutch Leningrad"]
+[Black "?"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "20"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 d6 6. O-O O-O 7. Nc3 Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. Qb3 h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "King's Indian Sämisch"]
+[Black "?"]
+[Result "*"]
+[ECO "E70"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c5 6. d5 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Polish Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "A80"]
+[PlyCount "2"]
+
+1. d4 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Ruy Lopez Anti-Marshall"]
+[Black "?"]
+[Result "*"]
+[ECO "C88"]
+[PlyCount "18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "King's Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E94"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Modern"]
+[Black "?"]
+[Result "*"]
+[ECO "A42"]
+[PlyCount "12"]
+
+1. d4 d6 2. e4 g6 3. c4 Bg7 4. Nc3 e5 5. d5 f5 6. exf5 gxf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Nimzo Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E32"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 Bxc3+ 6. bxc3 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Schmid Benoni"]
+[Black "?"]
+[Result "*"]
+[ECO "A43"]
+[PlyCount "9"]
+
+1. d4 c5 2. d5 Nf6 3. Nc3 g6 4. e4 d6 5. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Irregular"]
+[Black "?"]
+[Result "*"]
+[ECO "C92"]
+[PlyCount "10"]
+
+1. d4 d6 2. Nf3 Bg4 3. c4 Nf6 4. Qb3 Qc8 5. Nc3 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Ruy Lopez Zaitsev"]
+[Black "?"]
+[Result "*"]
+[ECO "C92"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Nd7 11. Nbd2 exd4 12. cxd4 Re8 13. Nf1 Na5 14. Bc2 Bf6 15.
+Rb1 c5 16. d5 Nc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Sicilian Scheveningen"]
+[Black "?"]
+[Result "*"]
+[ECO "B75"]
+[PlyCount "14"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. g4 h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Nimzo-Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E45"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ba6 6. Ng3 h5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "French Winawer"]
+[Black "?"]
+[Result "*"]
+[ECO "C03"]
+[PlyCount "18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 f5 8. Qg3
+Bb7 9. a4 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "King's Indian Sämisch"]
+[Black "?"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 Nc6 7. Nge2 a6 8. Qd2
+Re8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Sicilian Dragondorf"]
+[Black "?"]
+[Result "*"]
+[ECO "B77"]
+[PlyCount "16"]
+[EventDate "2021.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 a6 8. Qd2 
+Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Nimzo-Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E42"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 Ba5 10. a3 Nd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "King's Indian Makogonov"]
+[Black "?"]
+[Result "*"]
+[ECO "E91"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 Na6 7. Bg5 e5 8. d5
+Qe8 9. g4 Nc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "French Winawer"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Kf8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Budapest Gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "E91"]
+[PlyCount "8"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Benoni"]
+[Black "?"]
+[Result "*"]
+[ECO "A72"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Ne8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Caro-Kann Larsen"]
+[Black "?"]
+[Result "*"]
+[ECO "A53"]
+[PlyCount "12"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6 gxf6 6. c3 Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Alekhine"]
+[Black "?"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "8"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Reversed Traxler gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C38"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nc3 Nf6 3. a3 Bc5 4. Nf3 Ng4 5. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.09.01"]
+[Round "?"]
+[White "Sicilian Rauzer"]
+[Black "?"]
+[Result "*"]
+[ECO "B67"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. g4 Bc6 12. Be3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2021.05.09"]
+[Round "?"]
+[White "Sicilian Taimanov"]
+[Black "?"]
+[Result "*"]
+[ECO "B82"]
+[PlyCount "16"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. f4 Be7 8. Qf3
+O-O *
+
+
+
+
+
+
+
+
+
+
+
+
+

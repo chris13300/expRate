@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\bin\Debug\expRate.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\bin\Debug\expRate.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\bin\Debug\expRate.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\bin\Debug\expRate.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\obj\Debug\expRate.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\obj\Debug\expRate.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\obj\Debug\expRate.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\obj\Debug\expRate.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expRate\expRate\obj\Debug\expRate.pdb
