@@ -1,5 +1,5 @@
 # expRate
-Tool to get the experience rate on an opening.<p>
+Tool to get the experience rate of an "eman-like" EXP file on an opening.<p>
 
 Prerequisites :<br>
 rename BUREAU.ini to YOUR-COMPUTER-NAME.ini<br>
