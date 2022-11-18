@@ -4,7 +4,8 @@ Tool to get the experience rate of an "eman-like" EXP file on an opening.<p>
 Prerequisites :<br>
 rename BUREAU.ini to YOUR-COMPUTER-NAME.ini<br>
 set moteurEXP to path_to_your_eman_engine.exe<br>
-set fichierEXP to path_to_your_experience_file.exp<p>
+set fichierEXP to path_to_your_experience_file.exp<br>
+copy [pgn-extract.exe](https://github.com/chris13300/expRate/blob/main/expRate/bin/Debug/pgn-extract.exe) in your expRate folder<p>
 
 There are 2 ways to use this tool :<br>
 - either run this command : expRate.exe path_to_your_opening_list.pgn<br>
